@@ -1,0 +1,36 @@
+---
+title: "summary_stats"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(raster)
+library(tidyverse)
+library(sf)
+library(here)
+library(janitor)
+library(fasterize)
+library(lwgeom)
+library(broom)
+library(jtools)
+library(dplyr)
+library(kableExtra)
+library(rgdal)
+library(rgeos)
+library(maptools)
+library(spData)
+
+```
+
+Read in AREA tables
+```{r}
+
+#read in area stats
+
+
+
+
+```
+
