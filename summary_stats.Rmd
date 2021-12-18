@@ -28,9 +28,119 @@ Read in AREA tables
 ```{r}
 
 #read in area stats
+strong_terr <- read_csv("strong_area.csv")%>%
+  clean_names()
+
+strong_sum_km <- summarise(strong_terr, sum_sq_km = sum(sq_km))%>% 
+  mutate(perc_tot = (sum_sq_km/148939063)*100)
+
+strong_sum_mile <- summarise(strong_terr, sum_sq_mile = sum(sq_mile))
+
+www_terr <- read_csv("www_area.csv")%>%
+  clean_names()
+
+www_sum_km <- summarise(www_terr, sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_tot = (sum_sq_km/148939063)*100)
+
+www_sum_mile <- summarise(www_terr, sum_sq_mile = sum(sq_mile))
 
 
+```
 
+Species Richness
+```{r}
+
+#read in sr tables
+strong_sr <- read_csv("strong_sr_table.csv") %>% 
+  clean_names()
+
+strong_mean_sr <- strong_sr %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_sr = mean(mean))
+
+www_sr <- read_csv("www_sr_table.csv") %>% 
+  clean_names()
+
+www_mean_sr <- www_sr %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_sr = mean(mean))
+
+```
+
+Threatened Species
+```{r}
+
+#read in the threat tables
+strong_threat <- read_csv("strong_threat_table.csv") %>% 
+  clean_names()
+
+strong_mean_threat <- strong_threat %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_threat = mean(mean))
+
+www_threat <- read_csv("www_threat_table.csv") %>% 
+  clean_names()
+
+www_mean_threat<- www_threat %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_threat = mean(mean))
+
+```
+
+Protected Areas
+```{r}
+
+#all strongholds
+strong_pa <- read_csv("strong_pa.csv") %>% 
+  clean_names  %>% 
+  filter(sq_km > 0) %>% 
+  group_by(name) %>% 
+  mutate(sq_km = sum(sq_km))
+
+strong_pa_iucn_km <- strong_pa %>% 
+  group_by(iucn_cat_c_20) %>% 
+  summarise(sum(sq_km))
+
+strong_pa_iucn_poly <- strong_pa %>% 
+  group_by(iucn_cat_c_20) %>% 
+  summarise(sum(pa_def_c_20))
+
+#strongholds with www areas
+strong_www_pa <- read_csv("strong_www_pa.csv") %>% 
+  clean_names  %>% 
+  filter(sq_km > 0) %>% 
+  group_by(name) %>% 
+  mutate(sq_km = sum(sq_km)) %>% 
+  mutate(pa_def = 1)
+
+strong_www_pa_iucn_km <- strong_www_pa %>% 
+  group_by(iucn) %>% 
+  summarise(sum(sq_km))
+
+strong_www_pa_iucn_poly <- strong_www_pa %>% 
+  group_by(iucn) %>% 
+  summarise(sum(pa_def))
+
+#only www areas
+www_pa <- read_csv("www_pa.csv") %>% 
+  clean_names %>% 
+  filter(sq_km > 0) %>%
+  group_by(name) %>% 
+  mutate(sq_km = sum(sq_km)) %>% 
+  mutate(name = unique(name))
+
+www_pa_iucn_km <- www_pa %>% 
+  group_by(iucn_cat_c_20) %>% 
+  summarise(sum(sq_km)) %>% 
+  mutate(total_sq_km = sum(sq_km))
+
+www_pa_iucn_poly <- www_pa %>% 
+  group_by(iucn_cat_c_20) %>% 
+  summarise(sum(pa_def_c_20))
+
+  #mutate(name = unique(name))
+  #summarise_all(funs(toString(na.omit(.))))
+  
 
 ```
 
