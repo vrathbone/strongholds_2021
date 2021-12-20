@@ -111,17 +111,17 @@ strong_pa <- read_csv("strong_pa.csv") %>%
 
 strong_pa_name_km <- strong_pa %>% 
   group_by(name) %>% 
-  mutate(sq_km = sum(sq_km)) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
   mutate(sum_sq_km = sum(sq_km)) %>% 
-  mutate(perc_km = sum(sq_km)/strong_www_sum_km$sum_sq_km)
+  mutate(perc_km = sum(sq_km)/strong_sum_km$sum_sq_km)
 
 strong_pa_iucn_km <- strong_pa %>% 
-  group_by(iucn) %>% 
+  group_by(iucn_cat) %>% 
   summarise(sum(sq_km))
 
 strong_pa_iucn_poly <- strong_pa %>% 
-  group_by(iucn_cat_c_20) %>% 
-  summarise(sum(pa_def_c_20))
+  group_by(iucn_cat) %>% 
+  summarise(sum(pa_def))
 
 #strongholds with www areas
 strong_www_pa <- read_csv("strong_www_pa.csv") %>% 
@@ -166,6 +166,13 @@ www_pa_iucn_poly <- www_pa %>%
   #mutate(name = unique(name))
   #summarise_all(funs(toString(na.omit(.))))
   
+
+```
+
+Integrity
+```{r}
+
+
 
 ```
 
