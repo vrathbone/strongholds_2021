@@ -28,6 +28,8 @@ Read in AREA tables
 ```{r}
 
 #read in area stats
+
+#strongholds
 strong_terr <- read_csv("strong_area.csv")%>%
   clean_names()
 
@@ -36,6 +38,17 @@ strong_sum_km <- summarise(strong_terr, sum_sq_km = sum(sq_km))%>%
 
 strong_sum_mile <- summarise(strong_terr, sum_sq_mile = sum(sq_mile))
 
+#strongholds with WWW
+strong_www_terr <- read_csv("strong_www_area.csv")%>%
+  clean_names()
+
+strong_www_sum_km <- summarise(strong_www_terr, sum_sq_km = sum(sq_km))%>% 
+  mutate(perc_tot = (sum_sq_km/148939063)*100)
+
+strong_www_sum_mile <- summarise(strong_www_terr, sum_sq_miles = sum(sq_miles))
+
+
+#WWW
 www_terr <- read_csv("www_area.csv")%>%
   clean_names()
 
@@ -94,11 +107,16 @@ Protected Areas
 strong_pa <- read_csv("strong_pa.csv") %>% 
   clean_names  %>% 
   filter(sq_km > 0) %>% 
+  mutate(pa_def = 1)
+
+strong_pa_name_km <- strong_pa %>% 
   group_by(name) %>% 
-  mutate(sq_km = sum(sq_km))
+  mutate(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_km = sum(sq_km)/strong_www_sum_km$sum_sq_km)
 
 strong_pa_iucn_km <- strong_pa %>% 
-  group_by(iucn_cat_c_20) %>% 
+  group_by(iucn) %>% 
   summarise(sum(sq_km))
 
 strong_pa_iucn_poly <- strong_pa %>% 
@@ -109,9 +127,13 @@ strong_pa_iucn_poly <- strong_pa %>%
 strong_www_pa <- read_csv("strong_www_pa.csv") %>% 
   clean_names  %>% 
   filter(sq_km > 0) %>% 
-  group_by(name) %>% 
-  mutate(sq_km = sum(sq_km)) %>% 
   mutate(pa_def = 1)
+
+strong_www_pa_name_km <- strong_www_pa %>% 
+  group_by(name) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_km = sum(sq_km)/strong_www_sum_km$sum_sq_km)
 
 strong_www_pa_iucn_km <- strong_www_pa %>% 
   group_by(iucn) %>% 
@@ -124,10 +146,13 @@ strong_www_pa_iucn_poly <- strong_www_pa %>%
 #only www areas
 www_pa <- read_csv("www_pa.csv") %>% 
   clean_names %>% 
-  filter(sq_km > 0) %>%
+  filter(sq_km > 0)
+
+www_pa_name_km <- www_pa %>% 
   group_by(name) %>% 
-  mutate(sq_km = sum(sq_km)) %>% 
-  mutate(name = unique(name))
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_km = sum(sq_km)/www_sum_km$sum_sq_km)
 
 www_pa_iucn_km <- www_pa %>% 
   group_by(iucn_cat_c_20) %>% 
