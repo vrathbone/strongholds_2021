@@ -1,0 +1,275 @@
+FID_g200,G200_REGIO,G200_NUM,G200_BIOME,sq_km,FID_strong,OBJECTID,SCAPENAME,PROGRAM,COUNTRY,CONTACT1,EMAILADDRE,CONTACT2,EMAILADD_1,TYPE,Name,Region,WCS_SH,Reason,sq_km
+1,Albertine Rift Montane Forests,7,1,103404,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Jean-Paul Kibame,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Greater Virunga,Central Africa,1,,9695
+1,Albertine Rift Montane Forests,7,1,103404,10,11,Oku-Kahuzi-Kabobo,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Eastern DRC,Central Africa,1,,25996
+1,Albertine Rift Montane Forests,7,1,103404,39,62,Greater Ruaha Katavi,,Tanzania,,,,,,Ruaha-Katavi,East Africa West Indian Ocean,1,,1144
+2,Altai-Sayan Montane Forests,79,5,865118,45,70,,,"Kazakhstan, Russian, China y Mongolia",,,,,C,Altai Mountains,Temperate Asia,0,Financial,328782
+2,Altai-Sayan Montane Forests,79,5,865118,46,75,,,"Russia, China, Mongolia",,,,,G,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,103131
+3,Amazon-Orinoco-Southern Caribbean Mangroves,141,14,40894,22,31,,,Colombia,,,,,,Sierra Nevada de Santa Marta,AAO,0,,88
+3,Amazon-Orinoco-Southern Caribbean Mangroves,141,14,40894,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,147
+4,Amazon River and Flooded Forests,147,1,551945,114,0,,,,,,,,,,,0,,393255
+5,Annamite Range Moist Forests,25,1,93366,54,91,,,"Cambodia, Thailand",,,,,,,Greater Mekong,1,,207
+5,Annamite Range Moist Forests,25,1,93366,56,93,,,Laos,,,,,,,Greater Mekong,1,,54559
+8,Atacama-Sechura Deserts,133,13,289117,114,0,,,,,,,,,,,0,,504
+11,Borneo Lowland and Montane Forests,31,1,540661,85,0,,,Malaysia,,,,,,,,0,,757
+11,Borneo Lowland and Montane Forests,31,1,540661,86,0,,,Malaysia,,,,,,,,0,,765
+11,Borneo Lowland and Montane Forests,31,1,540661,87,0,,,Malaysia,,,,,,,,0,,35147
+11,Borneo Lowland and Montane Forests,31,1,540661,96,0,,,Indonesia,,,,,,,,0,,156564
+11,Borneo Lowland and Montane Forests,31,1,540661,97,0,,,Malaysia,,,,,,,,0,,19686
+11,Borneo Lowland and Montane Forests,31,1,540661,98,0,,,Malaysia,,,,,,,,0,,2370
+13,Cameroon Highlands Forests,3,1,39021,5,6,Greater Cross River,Africa,"Cameroon, Nigeria",Andrew Dunn,adunn@wcs.org,Roger Fotso,rfotso@wcs.org,Terrestrial,Cross River-Takamanda,Central Africa,1,,3458
+13,Cameroon Highlands Forests,3,1,39021,13,14,Guinea-Congo-Sudanian Transition,Africa,Multiple,Andrew Dunn,adunn@wcs.org,Rfotso@wcs.org,rfotso@wcs.org,Terrestrial,Guinea-Congo-Sudanian transition,Central Africa,1,,4766
+14,Canadian Boreal Taiga,82,6,1722716,14,15,,,Canada,,,,,,,Boreal,0,,456987
+14,Canadian Boreal Taiga,82,6,1722716,15,16,,,Canada,,,,,,,Boreal,0,,629699
+14,Canadian Boreal Taiga,82,6,1722716,16,17,,,Canada,,,,,,,Boreal,1,,6697
+14,Canadian Boreal Taiga,82,6,1722716,17,18,,,Canada,,,,,,,Boreal,1,,77882
+15,Canadian Low Arctic Tundra,114,11,801765,14,15,,,Canada,,,,,,,Boreal,0,,7711
+16,Cardamom Mountains Moist Forests,35,1,44074,53,90,,,Cambodia,,,,,,,Greater Mekong,0,,43
+16,Cardamom Mountains Moist Forests,35,1,44074,55,92,,,Cambodia,,,,,,,Greater Mekong,1,,27987
+18,Caucasus-Anatolian-Hyrcanian Temperate Forests,78,5,523198,107,0,,,Iran,,,,,,,,0,,105041
+19,Central and Eastern Miombo Woodlands,88,7,1924886,7,8,Greater Upemba,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Upemba-Kundelungu,Central Africa,0,,20935
+19,Central and Eastern Miombo Woodlands,88,7,1924886,10,11,Oku-Kahuzi-Kabobo,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Eastern DRC,Central Africa,1,,21763
+19,Central and Eastern Miombo Woodlands,88,7,1924886,37,60,Kigosi-Moyowosi,,Tanzania,,,,,,Moyowosi-Kigosi,East Africa West Indian Ocean,0,"Others, financial",15596
+19,Central and Eastern Miombo Woodlands,88,7,1924886,38,61,Greater Serengeti,,Tanzania y Kenya,,,,,,Serengeti-Mara,East Africa West Indian Ocean,0,Others,2664
+19,Central and Eastern Miombo Woodlands,88,7,1924886,39,62,Greater Ruaha Katavi,,Tanzania,,,,,,Ruaha-Katavi,East Africa West Indian Ocean,1,,128549
+19,Central and Eastern Miombo Woodlands,88,7,1924886,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",241976
+20,Central and Eastern Siberian Taiga,84,6,3922555,44,68,,Asia,"Russia, China",,,,,F,Northeast Asia Tiger Stronghold,Temperate Asia,1,,835
+21,Central Andean Dry Puna,109,10,254929,25,38,,,Bolivia,,,,,,Altiplano,AAO,0,,112914
+21,Central Andean Dry Puna,109,10,254929,114,0,,,,,,,,,,,0,,25
+21,Central Andean Dry Puna,109,10,254929,117,0,,,,,,,,,,,0,,108353
+22,Central Andean Yungas,46,1,351341,114,0,,,,,,,,,,,0,,266227
+22,Central Andean Yungas,46,1,351341,115,0,,,,,,,,,,,0,,5730
+23,Central Asian Deserts,134,13,1320028,47,77,,,Kazakhstan,,,,,K,Altyn Dala,Temperate Asia,0,"Political, Financial",202394
+23,Central Asian Deserts,134,13,1320028,107,0,,,Iran,,,,,,,,0,,14617
+24,Central Congo Basin Moist Forests,5,1,505197,1,2,Greater Salonga,Africa,DRC,Jean-Paul Kibame,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Salonga,Central Africa,0,,114211
+24,Central Congo Basin Moist Forests,5,1,505197,4,5,Northwest DRC Rainforest,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Maringa-Lopori,Central Africa,0,,90329
+24,Central Congo Basin Moist Forests,5,1,505197,11,12,East Central Africa Rainforest,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Lomami-Tshuapa,Central Africa,0,,32989
+24,Central Congo Basin Moist Forests,5,1,505197,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,0
+25,Central Range Subalpine Grasslands,106,10,15503,106,0,,,,,,,,,,,0,,14918
+27,Chhota-Nagpur Dry Forests,55,2,122134,111,0,,,,,,,,,,,0,,1648
+27,Chhota-Nagpur Dry Forests,55,2,122134,112,0,,,,,,,,,,,0,,39615
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,62,0,,,USA,,,,,,Greater Gila,,0,,8222
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,68,0,,,USA,,,,,,4,,0,,31133
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,69,0,,,USA y M├®xico,,,,,,3,,0,,20044
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,70,0,,,USA y M├®xico,,,,,,2,,0,,2041
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,71,0,,,USA y M├®xico,,,,,,1,,0,,5372
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,75,0,,,M├®xico,,,,,,Occidentale Jaguar 1,,0,,1237
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,9702
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,79,0,,,USA,,,,,,5,,0,,476
+29,Chilean Matorral,122,12,148381,116,0,,,,,,,,,,,0,,1213
+30,Chiquitano Dry Forests,58,2,229767,114,0,,,,,,,,,,,0,,561
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,36612
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,21312
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,24090
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,2703
+32,Chukhote Coastal Tundra,117,11,308084,103,0,,,Russian,,,,,,,Arctic Beringia,0,,109750
+34,Congolian Coastal Forests,2,1,241693,3,4,West Central Africa Rainforest,Africa,Congo,Richard Malonga,rmalonga@wcs.org,,,Terrestrial,Conkouati,Central Africa,1,,125
+34,Congolian Coastal Forests,2,1,241693,5,6,Greater Cross River,Africa,"Cameroon, Nigeria",Andrew Dunn,adunn@wcs.org,Roger Fotso,rfotso@wcs.org,Terrestrial,Cross River-Takamanda,Central Africa,1,,20217
+34,Congolian Coastal Forests,2,1,241693,9,10,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Atlantic Coast,Central Africa,1,,42161
+34,Congolian Coastal Forests,2,1,241693,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,74313
+35,Daurian/Mongolian Steppe,96,8,1099094,46,75,,,"Russia, China, Mongolia",,,,,G,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,252040
+37,East African Acacia Savannas,87,7,569199,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,,,,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,36635
+37,East African Acacia Savannas,87,7,569199,38,61,Greater Serengeti,,Tanzania y Kenya,,,,,,Serengeti-Mara,East Africa West Indian Ocean,0,Others,125051
+37,East African Acacia Savannas,87,7,569199,39,62,Greater Ruaha Katavi,,Tanzania,,,,,,Ruaha-Katavi,East Africa West Indian Ocean,1,,26045
+37,East African Acacia Savannas,87,7,569199,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",61
+38,East African Coastal Forests,8,1,112151,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",13837
+39,East African Mangroves,136,14,16013,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",63
+40,East African Moorlands,104,10,5935,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Jean-Paul Kibame,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Greater Virunga,Central Africa,1,,1521
+40,East African Moorlands,104,10,5935,38,61,Greater Serengeti,,Tanzania y Kenya,,,,,,Serengeti-Mara,East Africa West Indian Ocean,0,Others,1281
+41,Eastern Arc Montane Forests,9,1,23556,38,61,Greater Serengeti,,Tanzania y Kenya,,,,,,Serengeti-Mara,East Africa West Indian Ocean,0,Others,2293
+41,Eastern Arc Montane Forests,9,1,23556,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",7311
+43,Eastern Deccan Plateau Moist Forests,33,1,340171,109,0,,,,,,,,,,,0,,9210
+43,Eastern Deccan Plateau Moist Forests,33,1,340171,110,0,,,,,,,,,,,0,,74039
+43,Eastern Deccan Plateau Moist Forests,33,1,340171,111,0,,,,,,,,,,,0,,49059
+43,Eastern Deccan Plateau Moist Forests,33,1,340171,112,0,,,,,,,,,,,0,,13414
+44,Eastern Himalayan Alpine Meadows,112,10,121014,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,75663
+45,Eastern Himalayan Broadleaf and Conifer Forests,67,4,167280,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,158901
+46,Ethiopian Highlands,102,10,269398,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,,,,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,12902
+53,Greater Antillean Moist Forests,37,1,82926,31,49,,,Dominican Republic,,,,,,Hispanola,Mesoamerica,0,,6882
+54,Greater Antillean Pine Forests,62,3,17965,31,49,,,Dominican Republic,,,,,,Hispanola,Mesoamerica,0,,8710
+55,Greater Sundas Mangroves,140,14,37280,87,0,,,Malaysia,,,,,,,,0,,12
+55,Greater Sundas Mangroves,140,14,37280,93,0,,,Indonesia,,,,,,,,0,,4529
+55,Greater Sundas Mangroves,140,14,37280,95,0,,,Indonesia,,,,,,,,0,,450
+56,Guianan Highlands Moist Forests,45,1,426472,114,0,,,,,,,,,,,0,,58977
+59,Gulf of Guinea Mangroves,135,14,30791,9,10,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Atlantic Coast,Central Africa,1,,5817
+59,Gulf of Guinea Mangroves,135,14,30791,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,306
+62,Hengduan Shan Conifer Forests,80,5,262124,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,20922
+63,Horn of Africa Acacia Savannas,86,7,1049301,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,,,,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,14199
+64,Indochina Dry Forests,54,2,442721,53,90,,,Cambodia,,,,,,,Greater Mekong,0,,1986
+64,Indochina Dry Forests,54,2,442721,54,91,,,"Cambodia, Thailand",,,,,,,Greater Mekong,1,,103577
+64,Indochina Dry Forests,54,2,442721,55,92,,,Cambodia,,,,,,,Greater Mekong,1,,2224
+64,Indochina Dry Forests,54,2,442721,56,93,,,Laos,,,,,,,Greater Mekong,1,,12641
+64,Indochina Dry Forests,54,2,442721,58,100,,,Myanmar y Thailand,,,,,,,Greater Mekong,1,,452
+66,Kayah-Karen/Tenasserim Moist Forests,29,1,216088,55,92,,,Cambodia,,,,,,,Greater Mekong,1,,19
+66,Kayah-Karen/Tenasserim Moist Forests,29,1,216088,58,100,,,Myanmar y Thailand,,,,,,,Greater Mekong,1,,97314
+66,Kayah-Karen/Tenasserim Moist Forests,29,1,216088,84,0,,,Malaysia,,,,,,,,0,,1096
+67,Kinabalu Montane Shrublands,107,10,4320,87,0,,,Malaysia,,,,,,,,0,,3801
+69,Llanos Savannas,92,7,375787,20,24,,,Colombia,,,,,,Orinoqu├¡a,AAO,1,,111046
+69,Llanos Savannas,92,7,375787,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,230
+71,Madagascar Dry Forests,51,2,151564,41,65,Madagascar Rainforest,,Madagascar,,,,,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",5753
+72,Madagascar Forests and Shrublands,10,1,312006,41,65,Madagascar Rainforest,,Madagascar,,,,,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",103573
+73,Madagascar Mangroves,137,14,5188,41,65,Madagascar Rainforest,,Madagascar,,,,,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",1177
+74,Madagascar Spiny Thicket,125,13,122791,41,65,Madagascar Rainforest,,Madagascar,,,,,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",4327
+76,Mesoamerican Pine-Oak Forests,63,3,293567,33,51,,,"Honduras, Nicaragua",,,,,,,Mesoamerica,1,,10040
+77,Middle Asian Montane Woodlands and Steppe,111,10,879603,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",,,,,A+B,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,499073
+77,Middle Asian Montane Woodlands and Steppe,111,10,879603,46,75,,,"Russia, China, Mongolia",,,,,G,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,2834
+77,Middle Asian Montane Woodlands and Steppe,111,10,879603,47,77,,,Kazakhstan,,,,,K,Altyn Dala,Temperate Asia,0,"Political, Financial",2936
+78,Moluccas Moist Forests,13,1,46020,94,0,,,Indonesia,,,,,,,,0,,42473
+79,Muskwa/Slave Lake Boreal Forests,81,6,528040,14,15,,,Canada,,,,,,,Boreal,0,,65786
+79,Muskwa/Slave Lake Boreal Forests,81,6,528040,17,18,,,Canada,,,,,,,Boreal,1,,286883
+80,Naga-Manapuri-Chin Hills Moist Forests,34,1,269951,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,236641
+80,Naga-Manapuri-Chin Hills Moist Forests,34,1,269951,57,96,,,Myanmar,,,,,,,Greater Mekong,1,,24900
+83,Napo Moist Forests,43,1,365034,114,0,,,,,,,,,,,0,,365034
+86,New Guinea Mangroves,138,14,26708,106,0,,,,,,,,,,,0,,13859
+87,New Guinea Montane Forests,15,1,286564,106,0,,,,,,,,,,,0,,202455
+89,North Indochina Subtropical Moist Forests,22,1,675724,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,953
+89,North Indochina Subtropical Moist Forests,22,1,675724,56,93,,,Laos,,,,,,,Greater Mekong,1,,27314
+89,North Indochina Subtropical Moist Forests,22,1,675724,58,100,,,Myanmar y Thailand,,,,,,,Greater Mekong,1,,1504
+90,Northeastern Congo Basin Moist Forests,4,1,531067,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Jean-Paul Kibame,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Greater Virunga,Central Africa,1,,3527
+90,Northeastern Congo Basin Moist Forests,4,1,531067,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Bili-Uere,Central Africa,0,,6
+90,Northeastern Congo Basin Moist Forests,4,1,531067,8,9,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Garamba,Central Africa,0,,0
+90,Northeastern Congo Basin Moist Forests,4,1,531067,10,11,Oku-Kahuzi-Kabobo,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Eastern DRC,Central Africa,1,,132618
+90,Northeastern Congo Basin Moist Forests,4,1,531067,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,,,,,Bili-Uere - Zemongo,Sudano-Sahel,0,,8094
+90,Northeastern Congo Basin Moist Forests,4,1,531067,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,,,,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,0
+91,Northern Andean Montane Forests,40,1,420994,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,17905
+91,Northern Andean Montane Forests,40,1,420994,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,70206
+91,Northern Andean Montane Forests,40,1,420994,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,24711
+91,Northern Andean Montane Forests,40,1,420994,22,31,,,Colombia,,,,,,Sierra Nevada de Santa Marta,AAO,0,,4764
+91,Northern Andean Montane Forests,40,1,420994,23,32,,,Colombia y Venezuela,,,,,,Perij├í,AAO,0,,12721
+91,Northern Andean Montane Forests,40,1,420994,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,16457
+91,Northern Andean Montane Forests,40,1,420994,114,0,,,,,,,,,,,0,,89056
+92,Northern Andean P├íramo,108,10,45966,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,217
+92,Northern Andean P├íramo,108,10,45966,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,3532
+92,Northern Andean P├íramo,108,10,45966,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,158
+92,Northern Andean P├íramo,108,10,45966,22,31,,,Colombia,,,,,,Sierra Nevada de Santa Marta,AAO,0,,1239
+92,Northern Andean P├íramo,108,10,45966,23,32,,,Colombia y Venezuela,,,,,,Perij├í,AAO,0,,130
+92,Northern Andean P├íramo,108,10,45966,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,2061
+92,Northern Andean P├íramo,108,10,45966,114,0,,,,,,,,,,,0,,18685
+93,Northern Australia and Trans-Fly Savannas,90,7,1133211,106,0,,,,,,,,,,,0,,1797
+94,Northern Prairies,94,8,701321,59,0,,,USA y Canada,,,,,,Crown of the Continent,,0,,794
+94,Northern Prairies,94,8,701321,63,0,,,USA y Canada,,,,,,Missouri Grasslands,,0,,57603
+94,Northern Prairies,94,8,701321,81,0,,,USA,,,,,,Sand Hiills,,0,,48310
+94,Northern Prairies,94,8,701321,82,0,,,USA,,,,,,Paha Sapa,,0,,55712
+94,Northern Prairies,94,8,701321,83,0,,,USA,,,,,,Yellowstone Grasslands,,0,,55704
+96,Pacific Temperate Rainforests,72,5,295654,17,18,,,Canada,,,,,,,Boreal,1,,564
+97,Palawan Moist Forests,28,1,14278,90,0,,,Philippines,,,,,,,,0,,14178
+99,Patagonian Steppe,95,8,576599,116,0,,,,,,,,,,,0,,467162
+100,Peninsular Malaysia Lowland and Montane Forests,30,1,142042,84,0,,,Malaysia,,,,,,,,0,,60253
+100,Peninsular Malaysia Lowland and Montane Forests,30,1,142042,98,0,,,Malaysia,,,,,,,,0,,156
+101,Philippines Moist Forests,27,1,277924,88,0,,,Philippines,,,,,,,,0,,5564
+101,Philippines Moist Forests,27,1,277924,89,0,,,Philippines,,,,,,,,0,,89304
+103,Rann of Kutch Flooded Grasslands,99,9,27839,48,78,,,India,,,,,,,South Asia,0,,25876
+104,Rio Negro-Juru├í Moist Forests,44,1,819666,20,24,,,Colombia,,,,,,Orinoqu├¡a,AAO,1,,355
+104,Rio Negro-Juru├í Moist Forests,44,1,819666,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,7029
+104,Rio Negro-Juru├í Moist Forests,44,1,819666,114,0,,,,,,,,,,,0,,672604
+105,Russian Far East Broadleaf and Mixed Forests,71,4,210516,44,68,,Asia,"Russia, China",,,,,F,Northeast Asia Tiger Stronghold,Temperate Asia,1,,192916
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,62,0,,,USA,,,,,,Greater Gila,,0,,57
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,68,0,,,USA,,,,,,4,,0,,605
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,69,0,,,USA y M├®xico,,,,,,3,,0,,368
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,70,0,,,USA y M├®xico,,,,,,2,,0,,382
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,71,0,,,USA y M├®xico,,,,,,1,,0,,1454
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,75,0,,,M├®xico,,,,,,Occidentale Jaguar 1,,0,,3718
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,23008
+108,Sierra Nevada Coniferous Forests,74,5,52872,73,0,,,USA,,,,,,11,,0,,5879
+108,Sierra Nevada Coniferous Forests,74,5,52872,74,0,,,USA,,,,,,12,,0,,54
+110,Solomons-Vanuatu-Bismarck Moist Forests,16,1,95852,119,0,Solomon Islands,,,,,,,,Bismarck-Solomon,,1,,78755
+111,Sonoran-Baja Deserts,130,13,327837,62,0,,,USA,,,,,,Greater Gila,,0,,11417
+111,Sonoran-Baja Deserts,130,13,327837,71,0,,,USA y M├®xico,,,,,,1,,0,,21928
+111,Sonoran-Baja Deserts,130,13,327837,75,0,,,M├®xico,,,,,,Occidentale Jaguar 1,,0,,122
+112,South American Pacific Mangroves,142,14,13461,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,2037
+112,South American Pacific Mangroves,142,14,13461,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,3918
+112,South American Pacific Mangroves,142,14,13461,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,128
+116,Southern Mexican Dry Forests,56,2,50903,75,0,,,M├®xico,,,,,,Occidentale Jaguar 1,,0,,7503
+117,Southern Mexican Dry Forests,56,2,263273,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,665
+118,Southern New Guinea Lowland Forests,14,1,199397,94,0,,,Indonesia,,,,,,,,0,,2073
+118,Southern New Guinea Lowland Forests,14,1,199397,106,0,,,,,,,,,,,0,,124032
+119,Southern Pacific Islands Forests,49,1,26473,118,0,Fiji,,,,,,,,Fiji Stronghold,,1,,16880
+120,Southern Rift Montane Woodlands,103,10,33360,39,62,Greater Ruaha Katavi,,Tanzania,,,,,,Ruaha-Katavi,East Africa West Indian Ocean,1,,109
+120,Southern Rift Montane Woodlands,103,10,33360,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",736
+122,Southwestern Amazonian Moist Forests,47,1,1878089,114,0,,,,,,,,,,,0,,1218434
+124,Southwestern Ghats Moist Forest,20,1,46221,49,80,,,India,,,,,,,South Asia,1,,44991
+126,Sudanian Savannas,89,7,913702,13,14,Guinea-Congo-Sudanian Transition,Africa,Multiple,Andrew Dunn,adunn@wcs.org,Rfotso@wcs.org,rfotso@wcs.org,Terrestrial,Guinea-Congo-Sudanian transition,Central Africa,1,,22272
+126,Sudanian Savannas,89,7,913702,26,40,Greater Zakouma-Bamingui-Manovo,,Chad y Central African Republic,,,,,,Bamingui-Bangoran / Manovo-Gounda,Sudano-Sahel,1,,154225
+126,Sudanian Savannas,89,7,913702,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,,,,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,66153
+126,Sudanian Savannas,89,7,913702,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,,,,,Bili-Uere - Zemongo,Sudano-Sahel,0,,21102
+127,Sudd-Sahelian Flooded Grasslands and Savannas,97,9,243581,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,,,,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,116232
+128,Sulawesi Moist Forests,12,1,191282,92,0,,,Indonesia,,,,,,,,0,,112715
+128,Sulawesi Moist Forests,12,1,191282,94,0,,,Indonesia,,,,,,,,0,,4794
+128,Sulawesi Moist Forests,12,1,191282,119,0,Solomon Islands,,,,,,,,Bismarck-Solomon,,1,,8
+129,Sumatran Islands Lowland and Montane Forests,26,1,333654,93,0,,,Indonesia,,,,,,,,0,,2674
+129,Sumatran Islands Lowland and Montane Forests,26,1,333654,95,0,,,Indonesia,,,,,,,,0,,199535
+130,Sundarbans Mangroves,139,14,20383,51,84,,,Bangladesh,,,,,,Sunderbans,South Asia,1,,9697
+133,Talamancan-Isthmian Pacific Forests,38,1,16274,35,53,,,"Cost Rica, Panama",,,,,,,Mesoamerica,1,,12121
+135,Terai-Duar Savannas and Grasslands,91,7,34524,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,6948
+136,Tibetan Plateau Steppe,110,10,1564377,42,66,,Asia,China,,,,,J,Changtang,Temperate Asia,1,"Political, Financial",378910
+136,Tibetan Plateau Steppe,110,10,1564377,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",,,,,A+B,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,40024
+136,Tibetan Plateau Steppe,110,10,1564377,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,47956
+137,Tumbesian-Andean Valleys Dry Forests,57,2,102732,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,10324
+137,Tumbesian-Andean Valleys Dry Forests,57,2,102732,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,480
+137,Tumbesian-Andean Valleys Dry Forests,57,2,102732,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,1589
+137,Tumbesian-Andean Valleys Dry Forests,57,2,102732,114,0,,,,,,,,,,,0,,12176
+139,Valdivian Temperate Rain Forests / Juan Fern├índ,76,4,248544,116,0,,,,,,,,,,,0,,164121
+140,Western Congo Basin Moist Forests,6,1,560250,2,3,Greater Mbam Djerem,Africa,Cameroon,Roger Fotso,Rfotso@wcs.org,Bernard Fosso,Bfosso@wcs.org,Terrestrial,Mbam-Mpim-Dengdeng,Central Africa,1,,15678
+140,Western Congo Basin Moist Forests,6,1,560250,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Bili-Uere,Central Africa,0,,0
+140,Western Congo Basin Moist Forests,6,1,560250,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,315362
+140,Western Congo Basin Moist Forests,6,1,560250,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,,,,,Bili-Uere - Zemongo,Sudano-Sahel,0,,0
+141,Western Himalayan Temperate Forests,68,4,95475,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",,,,,A+B,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,19177
+141,Western Himalayan Temperate Forests,68,4,95475,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,26934
+143,Zambezian Flooded Savannas,98,9,152878,37,60,Kigosi-Moyowosi,,Tanzania,,,,,,Moyowosi-Kigosi,East Africa West Indian Ocean,0,"Others, financial",11240
+143,Zambezian Flooded Savannas,98,9,152878,39,62,Greater Ruaha Katavi,,Tanzania,,,,,,Ruaha-Katavi,East Africa West Indian Ocean,1,,3665
+143,Zambezian Flooded Savannas,98,9,152878,40,63,Niyassa-Selous,,Tanzania y Mozambique,,,,,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",7489
+0,Alaskan North Slope Coastal Tundra,113,11,228941,101,0,,,USA,,,,,,,Arctic Beringia,0,,176921
+0,Alaskan North Slope Coastal Tundra,113,11,228941,104,0,,,USA,,,,,,,Arctic Beringia,0,,176921
+3,Amazon-Orinoco-Southern Caribbean Mangroves,141,14,40894,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,340
+3,Amazon-Orinoco-Southern Caribbean Mangroves,141,14,40894,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,340
+14,Canadian Boreal Taiga,82,6,1722716,14,15,,,Canada,,,,,,,Boreal,0,,0
+15,Canadian Low Arctic Tundra,114,11,801765,14,15,,,Canada,,,,,,,Boreal,0,,0
+14,Canadian Boreal Taiga,82,6,1722716,17,18,,,Canada,,,,,,,Boreal,1,,0
+79,Muskwa/Slave Lake Boreal Forests,81,6,528040,17,18,,,Canada,,,,,,,Boreal,1,,0
+21,Central Andean Dry Puna,109,10,254929,25,38,,,Bolivia,,,,,,Altiplano,AAO,0,,1708
+21,Central Andean Dry Puna,109,10,254929,117,0,,,,,,,,,,,0,,1708
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,0
+117,Southern Mexican Dry Forests,56,2,263273,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,0
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,62,0,,,USA,,,,,,Greater Gila,,0,,0
+28,Chihuahuan-Tehuac├ín Deserts,131,13,643729,69,0,,,USA y M├®xico,,,,,,3,,0,,0
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,6
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,6
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,0
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,0
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,18236
+31,Choc├│-Dari├®n Moist Forests,39,1,186731,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,18236
+32,Chukhote Coastal Tundra,117,11,308084,99,0,,,Russian,,,,,,,Arctic Beringia,0,,7600
+32,Chukhote Coastal Tundra,117,11,308084,105,0,,,Russian,,,,,,,Arctic Beringia,0,,7600
+32,Chukhote Coastal Tundra,117,11,308084,100,0,,,Russian,,,,,,,Arctic Beringia,0,,70149
+32,Chukhote Coastal Tundra,117,11,308084,103,0,,,Russian,,,,,,,Arctic Beringia,0,,70149
+34,Congolian Coastal Forests,2,1,241693,3,4,West Central Africa Rainforest,Africa,Congo,Richard Malonga,rmalonga@wcs.org,,,Terrestrial,Conkouati,Central Africa,1,,3305
+34,Congolian Coastal Forests,2,1,241693,9,10,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Atlantic Coast,Central Africa,1,,3305
+34,Congolian Coastal Forests,2,1,241693,9,10,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Atlantic Coast,Central Africa,1,,8
+34,Congolian Coastal Forests,2,1,241693,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,8
+59,Gulf of Guinea Mangroves,135,14,30791,9,10,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Atlantic Coast,Central Africa,1,,1
+59,Gulf of Guinea Mangroves,135,14,30791,12,13,West Central Africa Rainforest,Africa,Multiple,Emma Stokes,estokes@wcs.org,,,Terrestrial,Guineo-Congolian inland forests,Central Africa,1,,1
+80,Naga-Manapuri-Chin Hills Moist Forests,34,1,269951,52,85,,,"India, Nepal y Bhutan",,,,,,Himalayas,South Asia,0,,32
+80,Naga-Manapuri-Chin Hills Moist Forests,34,1,269951,57,96,,,Myanmar,,,,,,,Greater Mekong,1,,32
+90,Northeastern Congo Basin Moist Forests,4,1,531067,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Bili-Uere,Central Africa,0,,100101
+90,Northeastern Congo Basin Moist Forests,4,1,531067,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,,,,,Bili-Uere - Zemongo,Sudano-Sahel,0,,100101
+90,Northeastern Congo Basin Moist Forests,4,1,531067,8,9,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Garamba,Central Africa,0,,58
+90,Northeastern Congo Basin Moist Forests,4,1,531067,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,,,,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,58
+91,Northern Andean Montane Forests,40,1,420994,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,24
+91,Northern Andean Montane Forests,40,1,420994,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,24
+91,Northern Andean Montane Forests,40,1,420994,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,0
+91,Northern Andean Montane Forests,40,1,420994,21,30,,,Colombia y Ecuador,,,,,,South-Choc├│,AAO,0,,0
+91,Northern Andean Montane Forests,40,1,420994,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,1486
+91,Northern Andean Montane Forests,40,1,420994,114,0,,,,,,,,,,,0,,1486
+91,Northern Andean Montane Forests,40,1,420994,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,1418
+91,Northern Andean Montane Forests,40,1,420994,114,0,,,,,,,,,,,0,,1418
+92,Northern Andean P├íramo,108,10,45966,19,23,,,Colombia,,,,,,Central Andes,AAO,1,,101
+92,Northern Andean P├íramo,108,10,45966,114,0,,,,,,,,,,,0,,101
+92,Northern Andean P├íramo,108,10,45966,24,33,,,Colombia,,,,,,Macarena - Tinig├╝a,AAO,0,,17
+92,Northern Andean P├íramo,108,10,45966,114,0,,,,,,,,,,,0,,17
+100,Peninsular Malaysia Lowland and Montane Forests,30,1,142042,84,0,,,Malaysia,,,,,,,,0,,29171
+100,Peninsular Malaysia Lowland and Montane Forests,30,1,142042,98,0,,,Malaysia,,,,,,,,0,,29171
+107,Sierra Madre Oriental and Occidental Pine-Oak Fo,61,3,288891,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,0
+117,Southern Mexican Dry Forests,56,2,263273,76,0,,,M├®xico,,,,,,Occidentale Jaguar 2,,0,,0
+112,South American Pacific Mangroves,142,14,13461,18,22,,,Panam├í y Colombia,,,,,,Choc├│-Dari├®n,AAO,1,,109
+112,South American Pacific Mangroves,142,14,13461,36,54,,,"Panama, Colombia",,,,,,,Mesoamerica,1,,109
+140,Western Congo Basin Moist Forests,6,1,560250,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Jean-Paul Kibambe,jpkibambe@wcs.org,Deo Kujirakwinja,dkujirakwinja@wcs.org,Terrestrial,Bili-Uere,Central Africa,0,,143
+140,Western Congo Basin Moist Forests,6,1,560250,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,,,,,Bili-Uere - Zemongo,Sudano-Sahel,0,,143

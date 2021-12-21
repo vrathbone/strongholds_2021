@@ -240,9 +240,31 @@ Threatened Ecoregions: WWF Global 200
 ```{r}
 
 #strongholds
+strong_g200_terr <- read_csv("strong_g200_terr_table.csv") %>% 
+  clean_names() %>%
+  rename(sq_km = sq_km_20) %>% 
+  filter(sq_km > 0) %>%
+  group_by(objectid) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km))
 
 #strongholds with WWW
+strong_www_g200_terr <- read_csv("strong_www_g200_terr_table.csv") %>% 
+  clean_names() %>%
+  filter(sq_km > 0) %>%
+  group_by(objectid) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km))
+
 
 #www
+www_g200_terr <- read_csv("www_g200_terr_table.csv") %>% 
+  clean_names() %>%
+  filter(sq_km > 0) %>%
+  group_by(objectid) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km))
+
+
 ```
 
