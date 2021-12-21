@@ -1,0 +1,863 @@
+FID_wwf_te,OBJECTID,PERIMETER,ECO_NAME,REALM,BIOME,ECO_NUM,ECO_ID,ECO_SYM,GBL_STAT,G200_REGIO,G200_NUM,G200_BIOME,G200_STAT,eco_code,PER_area,PER_area_1,PER_area_2,sq_km,FID_www_in,FID_WWW_ed,OBJECTID_1,NAME,at_risk,Map_number,COUNTRY,TYPE,Region,FID_contin,FID_1,CONTINENT,sq_km
+126,926,0.174,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,18,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,17
+130,930,0.335,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,73,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,40
+156,1278,0.292,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,33,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,33
+159,1281,7.138,Costa Rican seasonal moist forests,NT,1,19,60119,75,1,,0,0,0,NT0119,0,0,0,5871,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,117
+172,1769,0.433,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,69,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,57
+233,164,0.583,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,82,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,10
+236,167,1.465,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,1332,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,1332
+240,171,0.592,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,184,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,184
+264,195,0.763,Cuban wetlands,NT,9,2,60902,45,1,,0,0,0,NT0902,0,0,0,108,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,108
+271,202,0.078,Cuban dry forests,NT,2,13,60213,86,1,,0,0,0,NT0213,0,0,0,5,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,5
+313,244,2.87,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,1438,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,182
+362,1461,0.754,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,51,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,11
+366,1465,0.128,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,5,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,4
+385,1788,0.302,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,36,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,11
+388,1791,2.767,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,1030,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,373
+392,1795,2.283,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,776,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,776
+393,1796,0.406,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,75,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,75
+400,1804,86.458,Uatuma-Trombetas moist forests,NT,1,73,60173,245,3,,0,0,0,NT0173,0,0,0,469877,46,46,61,Lower R├¡o Negro,,,Brazil,WCS areas of work,AAO,5,6,South America,8003
+402,2330,0.71,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,55,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,55
+406,2334,0.148,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,14,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,0
+407,2335,2.948,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,781,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,781
+409,2337,4.716,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,1468,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,1468
+413,2341,70.871,Ucayali moist forests,NT,1,74,60174,69,2,Napo Moist Forests,43,1,0,NT0174,0,0,0,88620,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11712
+416,2344,0.152,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,10,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,10
+492,1219,0.404,Central American Atlantic moist forests,NT,1,11,60111,73,2,,0,0,0,NT0111,0,0,0,80,108,107,0,,,,,,,3,4,North America,80
+494,1221,49.564,Isthmian-Atlantic moist forests,NT,1,29,60129,399,2,,0,0,0,NT0129,0,0,0,58178,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,12457
+494,1221,49.564,Isthmian-Atlantic moist forests,NT,1,29,60129,399,2,,0,0,0,NT0129,0,0,0,58178,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,7996
+494,1221,49.564,Isthmian-Atlantic moist forests,NT,1,29,60129,399,2,,0,0,0,NT0129,0,0,0,58178,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,10297
+512,1552,39.898,Cauca Valley montane forests,NT,1,9,60109,70,1,Northern Andean Montane Forests,40,1,0,NT0109,0,0,0,31915,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,8689
+512,1552,39.898,Cauca Valley montane forests,NT,1,9,60109,70,1,Northern Andean Montane Forests,40,1,0,NT0109,0,0,0,31915,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,2157
+567,848,0.795,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,123,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,117
+600,1820,0.09,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,6,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,6
+603,1823,0.263,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,31,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,31
+606,1826,2.026,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,541,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,541
+626,1906,1.31,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,232,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,20
+629,1909,0.802,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,101,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,64
+631,1928,19.565,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,4447,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,817
+647,2321,0.128,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+658,386,0.247,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,25,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,1
+659,387,0.11,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,6,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,5
+687,1324,0.619,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,38,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,5
+703,1368,29.771,Isthmian-Pacific moist forests,NT,1,30,60130,69,1,,0,0,0,NT0130,0,0,0,28732,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,11823
+706,1474,0.182,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,12,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,12
+708,1476,0.182,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,14,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,14
+713,1481,1.856,Southern Mesoamerican Pacific mangroves,NT,14,7,61407,119,2,,0,0,0,NT1407,0,0,0,229,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,144
+714,1482,0.17,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,18,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,8
+715,1483,0.742,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,133,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,99
+762,888,0.289,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,48,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,46
+830,5106,1.242,Chukchi Peninsula tundra,PA,11,4,81104,42,3,Chukhote coastal tundra,117,11,3,PA1104,0,0,0,344,9,9,11,Beringia NP,y,2,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,186
+871,10236,2.222,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,825,104,103,145,,,,Philippines,,,1,2,Asia,812
+873,2322,0.144,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+874,2323,0.122,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+876,2359,0.768,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,48,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,15
+877,2360,0.108,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,8,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,1
+878,2361,0.083,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,0
+880,2363,3.957,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,796,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,649
+881,2364,0.156,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,9,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,9
+882,2365,0.183,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,12,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,12
+883,2366,0.263,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,34,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,34
+884,2367,0.134,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+885,2368,2.076,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,257,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,3
+886,2369,0.334,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,12,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,12
+887,2370,0.099,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+898,4201,0.523,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,6,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,1
+899,4202,0.195,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,4,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+901,4204,0.27,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,6,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,6
+902,4205,0.169,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,3,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+903,4206,0.116,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,2,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+905,4208,0.357,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,4,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+918,274,0.13,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,13,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,13
+922,278,1.951,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,914,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,330
+932,288,0.158,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,16,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,6
+934,290,86.466,Magdalena Valley montane forests,NT,1,36,60136,69,1,Northern Andean Montane Forests,40,1,0,NT0136,0,0,0,104598,42,42,56,Middle Magdalena Valley,,,Colombia,WCS areas of work,AAO,5,6,South America,9486
+934,290,86.466,Magdalena Valley montane forests,NT,1,36,60136,69,1,Northern Andean Montane Forests,40,1,0,NT0136,0,0,0,104598,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,16982
+936,292,29.425,Apure-Villavicencio dry forests,NT,2,1,60201,78,2,,0,0,0,NT0201,0,0,0,58434,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,109
+941,297,1.355,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,231,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,231
+943,299,1.032,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,257,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,257
+952,308,0.616,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,95,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,95
+972,354,57.913,Cuban dry forests,NT,2,13,60213,86,1,,0,0,0,NT0213,0,0,0,63506,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,360
+996,392,2.89,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,553,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,62
+999,395,1.073,Panamanian dry forests,NT,2,24,60224,96,1,,0,0,0,NT0224,0,0,0,164,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,99
+1001,397,0.094,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,6,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,0
+1004,400,0.23,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,12,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,2
+1007,403,0.4,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,30,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,7
+1018,415,0.708,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,162,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,162
+1020,417,0.418,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,55,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,55
+1028,425,3.939,Purus varze├í,NT,1,56,60156,122,1,Amazon River and Flooded Forests,147,1,0,NT0156,0,0,0,877,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,877
+1058,455,8.286,Cuban wetlands,NT,9,2,60902,45,1,,0,0,0,NT0902,0,0,0,3287,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,1423
+1061,458,8.488,Bahamian-Antillean mangroves,NT,14,2,61402,119,3,,0,0,0,NT1402,0,0,0,1677,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,1324
+1104,501,0.385,Cuban wetlands,NT,9,2,60902,45,1,,0,0,0,NT0902,0,0,0,52,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,52
+1197,611,21.296,Yucat├ín moist forests,NT,1,81,60181,75,2,,0,0,0,NT0181,0,0,0,66962,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,9216
+1197,611,21.296,Yucat├ín moist forests,NT,1,81,60181,75,2,,0,0,0,NT0181,0,0,0,66962,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,1
+1298,1146,2.779,Central American Atlantic moist forests,NT,1,11,60111,73,2,,0,0,0,NT0111,0,0,0,1476,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,1
+1304,1855,0.756,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,112,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,112
+1306,1857,119.557,Eastern Cordillera real montane forests,NT,1,21,60121,65,2,Northern Andean Montane Forests,40,1,0,NT0121,0,0,0,102062,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,4904
+1306,1857,119.557,Eastern Cordillera real montane forests,NT,1,21,60121,65,2,Northern Andean Montane Forests,40,1,0,NT0121,0,0,0,102062,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,1410
+1306,1857,119.557,Eastern Cordillera real montane forests,NT,1,21,60121,65,2,Northern Andean Montane Forests,40,1,0,NT0121,0,0,0,102062,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,4986
+1318,2611,0.239,Southwest Amazon moist forests,NT,1,66,60166,74,3,Southwestern Amazonian Moist Forests,47,1,0,NT0166,0,0,0,19,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,19
+1319,2612,0.17,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,21,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,21
+1340,2692,48.163,Chukchi Peninsula tundra,PA,11,4,81104,42,3,Chukhote coastal tundra,117,11,3,PA1104,0,0,0,106590,9,9,11,Beringia NP,y,2,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,13286
+1419,752,56.801,Pet├®n-Veracruz moist forests,NT,1,54,60154,74,1,,0,0,0,NT0154,0,0,0,148508,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,30637
+1419,752,56.801,Pet├®n-Veracruz moist forests,NT,1,54,60154,74,1,,0,0,0,NT0154,0,0,0,148508,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,17
+1469,818,2.376,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,1369,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,77
+1513,1352,0.196,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,13,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,12
+1515,1354,1.074,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,212,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,212
+1517,1356,54.488,Llanos,NT,7,9,60709,84,2,Llanos Savannas,92,7,0,NT0709,0,0,0,375081,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,45255
+1521,1360,22.668,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,12645,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,11359
+1522,1361,0.279,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,45,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,45
+1526,1502,5.251,Panamanian dry forests,NT,2,24,60224,96,1,,0,0,0,NT0224,0,0,0,4586,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,860
+1528,1504,4.365,Amazon-Orinoco-Southern Caribbean mangroves,NT,14,1,61401,119,2,Amazon-Orinoco-Southern Caribbean mangroves,141,14,0,NT1401,0,0,0,703,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,438
+1530,1506,0.83,Southern Mesoamerican Pacific mangroves,NT,14,7,61407,119,2,,0,0,0,NT1407,0,0,0,47,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,40
+1535,1511,0.659,Panamanian dry forests,NT,2,24,60224,96,1,,0,0,0,NT0224,0,0,0,78,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,78
+1555,2325,0.112,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+1558,2328,0.081,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+1560,2347,2.171,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,1005,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,1005
+1561,2348,0.151,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,9,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,9
+1562,2349,0.865,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,109,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,4
+1563,2350,0.471,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,44,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,44
+1564,2351,0.385,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,16,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,10
+1566,2353,0.147,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,11,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11
+1568,2355,0.209,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,21,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,21
+1571,2358,0.138,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,11,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11
+1584,2707,31.825,Beringia upland tundra,NA,11,7,51107,23,3,,0,0,0,NA1107,0,0,0,44445,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,713
+1631,877,3.131,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,896,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,68
+1643,904,0.36,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,72,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,6
+1649,910,1.504,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,379,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,6
+1649,910,1.504,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,379,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,26
+1669,940,98.74,Central American pine-oak forests,NT,3,3,60303,77,1,Mesoamerican Pine-Oak Forests,63,3,0,NT0303,0,0,0,94293,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,1841
+1674,945,1.046,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,608,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,608
+1677,948,0.096,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,6,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,6
+1681,952,0.135,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,11,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,0
+1686,974,0.392,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,64,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,64
+1699,987,0.696,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,252,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,0
+1706,994,0.104,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,6,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,0
+1712,1000,0.738,Belizian pine forests,NT,3,2,60302,57,1,,0,0,0,NT0302,0,0,0,148,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,27
+1742,1030,50.927,Central American Atlantic moist forests,NT,1,11,60111,73,2,,0,0,0,NT0111,0,0,0,83376,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,27360
+1742,1030,50.927,Central American Atlantic moist forests,NT,1,11,60111,73,2,,0,0,0,NT0111,0,0,0,83376,108,107,0,,,,,,,3,4,North America,31
+1746,1034,1.984,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,803,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,507
+1751,1054,0.231,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,40,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,40
+1752,1055,0.602,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,184,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,184
+1753,1056,10.888,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,10876,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,4002
+1757,1060,0.252,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,56,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,56
+1758,1061,0.772,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,403,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,403
+1760,1063,14.902,Central American pine-oak forests,NT,3,3,60303,77,1,Mesoamerican Pine-Oak Forests,63,3,0,NT0303,0,0,0,9343,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,927
+1771,1074,0.542,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,124,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,80
+1777,1080,0.403,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,88,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,69
+1779,1082,1.567,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,423,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,351
+1782,1085,2.706,Central American Atlantic moist forests,NT,1,11,60111,73,2,,0,0,0,NT0111,0,0,0,968,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,937
+1784,1087,0.091,Miskito pine forests,NT,3,6,60306,36,2,,0,0,0,NT0306,0,0,0,6,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,6
+1825,1154,2.018,Central American dry forests,NT,2,9,60209,105,1,,0,0,0,NT0209,0,0,0,530,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,5
+1833,1162,0.272,Central American montane forests,NT,1,12,60112,70,2,Mesoamerican Pine-Oak Forests,63,3,0,NT0112,0,0,0,52,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,52
+1840,1169,0.206,Central American montane forests,NT,1,12,60112,70,2,Mesoamerican Pine-Oak Forests,63,3,0,NT0112,0,0,0,29,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,29
+1872,1210,4.651,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,1043,108,107,0,,,,,,,3,4,North America,201
+1897,1252,1.092,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,231,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,195
+1906,1261,0.162,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,15,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,15
+1920,1285,1.573,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,391,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,391
+1961,1340,48.575,Magdalena-Urab├í moist forests,NT,1,37,60137,399,1,Choc├│-Dari├®n Moist Forests,39,1,0,NT0137,0,0,0,76440,42,42,56,Middle Magdalena Valley,,,Colombia,WCS areas of work,AAO,5,6,South America,8303
+1961,1340,48.575,Magdalena-Urab├í moist forests,NT,1,37,60137,399,1,Choc├│-Dari├®n Moist Forests,39,1,0,NT0137,0,0,0,76440,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,573
+1973,1382,0.326,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,37,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,21
+1974,1383,0.306,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,37,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,24
+1978,1387,44.214,Choc├│-Dari├®n moist forests,NT,1,15,60115,74,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0115,0,0,0,72959,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,12685
+1978,1387,44.214,Choc├│-Dari├®n moist forests,NT,1,15,60115,74,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0115,0,0,0,72959,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,13061
+1978,1387,44.214,Choc├│-Dari├®n moist forests,NT,1,15,60115,74,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0115,0,0,0,72959,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,4664
+1979,1388,0.458,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,28,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,21
+1980,1389,0.68,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,123,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,105
+1982,1391,0.561,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,59,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,59
+1983,1392,0.637,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,60,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,60
+1984,1393,0.426,Isthmian-Atlantic moist forests,NT,1,29,60129,399,2,,0,0,0,NT0129,0,0,0,64,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,3
+1986,1395,0.225,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,14,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,1
+1988,1397,0.11,Isthmian-Atlantic moist forests,NT,1,29,60129,399,2,,0,0,0,NT0129,0,0,0,6,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,4
+1990,1399,0.577,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,52,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,52
+2004,1414,0.78,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,120,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,120
+2005,1415,0.275,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,18,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,18
+2006,1416,3.984,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,551,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,551
+2007,1417,0.206,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,22,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,22
+2009,1419,0.326,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,44,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,44
+2010,1420,0.647,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,57,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,57
+2042,1466,0.266,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,19,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,19
+2044,1468,2.2,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,432,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,14
+2048,1472,0.223,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,15,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,15
+2049,1473,0.134,Mesoamerican Gulf-Caribbean mangroves,NT,14,3,61403,119,2,,0,0,0,NT1403,0,0,0,5,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,4
+2050,1487,0.282,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,20,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,20
+2051,1488,0.769,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,131,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,84
+2056,1493,0.422,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,41,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,41
+2057,1494,0.277,Southern Mesoamerican Pacific mangroves,NT,14,7,61407,119,2,,0,0,0,NT1407,0,0,0,16,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,12
+2059,1496,2.538,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,821,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,250
+2059,1496,2.538,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,821,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,571
+2061,1498,0.416,Southern Mesoamerican Pacific mangroves,NT,14,7,61407,119,2,,0,0,0,NT1407,0,0,0,21,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,16
+2063,1500,0.173,Talamancan montane forests,NT,1,67,60167,74,3,Talamancan-Isthmian Pacific Forests,38,1,0,NT0167,0,0,0,10,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,10
+2065,1517,1.233,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,175,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,98
+2073,2241,1.936,Changbai Mountains mixed forests,PA,4,14,80414,61,1,,0,0,0,PA0414,0,0,0,2042,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,2042
+2075,2243,68.124,Gissaro-Alai open woodlands,PA,8,8,80808,75,1,Middle Asian montane woodlands and steppe,111,10,2,PA0808,0,0,0,168202,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,512
+2107,3578,0.261,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,13,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,4
+2111,3582,0.354,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,30,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,7
+2112,3583,0.625,Rock and Ice,NT,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,120,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,119
+2113,3584,0.205,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,14,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,4
+2114,3585,5.438,Rock and Ice,NT,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1593,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1523
+2116,3587,2.38,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,299,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,236
+2119,3590,0.182,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,11,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1
+2122,3593,1.625,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,243,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,217
+2123,3594,3.162,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,499,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,416
+2158,4195,0.161,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,3,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+2159,4196,0.322,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,6,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,5
+2202,1521,93.172,Northwestern Andean montane forests,NT,1,45,60145,75,2,Northern Andean Montane Forests,40,1,0,NT0145,0,0,0,80806,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,2333
+2202,1521,93.172,Northwestern Andean montane forests,NT,1,45,60145,75,2,Northern Andean Montane Forests,40,1,0,NT0145,0,0,0,80806,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,8372
+2202,1521,93.172,Northwestern Andean montane forests,NT,1,45,60145,75,2,Northern Andean Montane Forests,40,1,0,NT0145,0,0,0,80806,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,287
+2203,1522,0.427,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,34,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,1
+2216,1535,1.787,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,698,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,373
+2216,1535,1.787,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,698,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,325
+2224,1543,0.384,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,74,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,74
+2226,1545,2.399,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,939,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,897
+2226,1545,2.399,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,939,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,42
+2237,1571,0.217,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,24,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,24
+2240,1574,0.198,Eastern Panamanian montane forests,NT,1,22,60122,67,3,Choc├│-Dari├®n Moist Forests,39,1,0,NT0122,0,0,0,18,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,18
+2242,1576,19.571,Cauca Valley dry forests,NT,2,7,60207,91,1,Tumbesian-Andean Valleys Dry Forests,57,2,0,NT0207,0,0,0,7313,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,0
+2242,1576,19.571,Cauca Valley dry forests,NT,2,7,60207,91,1,Tumbesian-Andean Valleys Dry Forests,57,2,0,NT0207,0,0,0,7313,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,11
+2275,1673,5.293,South American Pacific mangroves,NT,14,5,61405,119,2,South American Pacific mangroves,142,14,0,NT1405,0,0,0,1312,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,1041
+2277,1675,22.504,Magdalena Valley dry forests,NT,2,21,60221,96,1,Tumbesian-Andean Valleys Dry Forests,57,2,0,NT0221,0,0,0,19549,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,6382
+2289,1687,1.911,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,891,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,891
+2296,1694,1.06,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,120,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,120
+2303,1701,67.402,Negro-Branco moist forests,NT,1,43,60143,67,2,Rio Negro-Juru├í Moist Forests,44,1,0,NT0143,0,0,0,200932,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,355
+2345,1748,0.332,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,42,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,42
+2346,1749,0.168,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,20,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,20
+2348,1751,3.364,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,847,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,847
+2362,1766,0.227,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,27,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,27
+2365,1779,0.324,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,42,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,42
+2378,1812,0.144,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,16,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,16
+2385,1819,0.374,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,52,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,52
+2387,1850,136.637,Napo moist forests,NT,1,42,60142,75,2,Napo Moist Forests,43,1,0,NT0142,0,0,0,250591,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,39629
+2387,1850,136.637,Napo moist forests,NT,1,42,60142,75,2,Napo Moist Forests,43,1,0,NT0142,0,0,0,250591,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,49274
+2387,1850,136.637,Napo moist forests,NT,1,42,60142,75,2,Napo Moist Forests,43,1,0,NT0142,0,0,0,250591,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,15043
+2401,1879,0.442,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,50,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,50
+2412,1890,0.202,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,22,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,22
+2432,1986,12.452,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,3656,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,7
+2446,2381,0.441,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,18,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,18
+2447,2382,0.209,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,16,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,16
+2448,2383,1.034,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,99,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,99
+2449,2384,0.756,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,124,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,124
+2451,2386,0.156,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+2452,2387,0.263,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,34,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,34
+2453,2388,0.255,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,18,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,18
+2459,3071,3.863,Patagonian steppe,NT,8,5,60805,87,1,Patagonian Steppe,95,8,0,NT0805,0,0,0,3986,34,34,38,Valdes,,,Argentina,WCS areas of work,Patagonia,5,6,South America,3773
+2509,1922,1.678,Purus varze├í,NT,1,56,60156,122,1,Amazon River and Flooded Forests,147,1,0,NT0156,0,0,0,323,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,323
+2554,1992,83.383,Purus varze├í,NT,1,56,60156,122,1,Amazon River and Flooded Forests,147,1,0,NT0156,0,0,0,80173,46,46,61,Lower R├¡o Negro,,,Brazil,WCS areas of work,AAO,5,6,South America,2548
+2593,2040,0.374,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,36,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,18
+2596,2043,0.304,Northern Andean p├íramo,NT,10,6,61006,42,3,Northern Andean P├íramo,108,10,0,NT1006,0,0,0,9,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,5
+2631,2078,0.328,Purus varze├í,NT,1,56,60156,122,1,Amazon River and Flooded Forests,147,1,0,NT0156,0,0,0,88,46,46,61,Lower R├¡o Negro,,,Brazil,WCS areas of work,AAO,5,6,South America,8
+2690,2152,3.602,Wrangel Island arctic desert,PA,11,13,81113,352,3,Chukhote coastal tundra,117,11,3,PA1113,0,0,0,2496,4,4,6,Natural System of Wrangel Island Reserve,y,1,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,2467
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,276
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,14287
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,11,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,104
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,12,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,2200
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,13,13,15,Peard Bay,y,10,USA,WCS areas of work,Arctic Beringia,3,4,North America,90
+2697,2159,65.612,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,48037,14,14,16,Kasegaluk,y,9,USA,WCS areas of work,Arctic Beringia,3,4,North America,145
+2738,2200,8.67,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4179,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4084
+2741,2203,34.188,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,56723,8,8,10,Togiak NWR,n,23,USA,WCS areas of work,Arctic Beringia,3,4,North America,2152
+2755,2217,12.174,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2159,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,666
+2758,2220,0.531,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,29,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,29
+2780,2258,0.191,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,15,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,2
+2784,2262,2.444,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,325,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,63
+2789,2267,0.29,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,16,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,15
+2790,2268,0.321,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,22,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,22
+2791,2269,0.161,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,10,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,10
+2800,2278,0.183,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,10,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,8
+2803,2281,0.459,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,17,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,17
+2804,2282,0.512,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,60,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,53
+2807,2285,0.113,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+2808,2286,11.361,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6467,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6159
+2818,2296,0.425,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,40,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,35
+2819,2297,0.687,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,70,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,70
+2821,2299,0.677,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,64,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,4
+2824,2302,0.373,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,28,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,28
+2827,2305,244.328,Southwest Amazon moist forests,NT,1,66,60166,74,3,Southwestern Amazonian Moist Forests,47,1,0,NT0166,0,0,0,745546,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,50764
+2827,2305,244.328,Southwest Amazon moist forests,NT,1,66,60166,74,3,Southwestern Amazonian Moist Forests,47,1,0,NT0166,0,0,0,745546,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,38325
+2829,2307,0.143,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+2830,2308,0.154,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,8,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,8
+2831,2309,0.764,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,81,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,72
+2832,2310,0.138,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,15,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,15
+2833,2311,0.209,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,24,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,24
+2835,2313,0.304,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,34,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,34
+2837,2315,28.645,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,39625,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,38478
+2838,2316,0.311,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,9,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,8
+2842,2320,0.217,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,23,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,23
+2843,2371,0.499,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,58,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,58
+2844,2372,0.212,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,11,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11
+2846,2374,0.233,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,29,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,16
+2848,2376,0.249,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,35,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,35
+2849,2377,0.183,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,14,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,14
+2850,2389,0.454,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,23,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,23
+2851,2390,0.736,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,85,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,82
+2852,2391,0.967,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,91,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,91
+2854,2393,0.225,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,11,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11
+2855,2394,0.106,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+2857,2396,0.146,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,8,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,8
+2858,2397,0.118,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+2859,2398,0.194,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,14,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,14
+2860,2399,1.475,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,456,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,456
+2861,2400,0.406,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,16,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,3
+2862,2401,0.306,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,43,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,43
+2863,2402,0.192,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+2864,2403,16.24,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7475,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,4195
+2865,2404,0.309,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,32,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,32
+2866,2405,0.112,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+2868,2407,0.782,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,93,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,93
+2869,2408,0.111,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,10,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,10
+2870,2409,0.254,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,27,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,27
+2871,2410,0.219,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,18,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,18
+2873,2412,0.155,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,12,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,12
+2874,2413,0.16,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+2876,2910,82.965,Dry Chaco,NT,7,10,60210,91,2,,0,0,0,NT0210,0,0,0,786790,36,36,44,Paraguayan Chaco,,,Paraguay,WCS areas of work,Patagonia,5,6,South America,27181
+2910,4315,0.115,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,2,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+2928,6313,19.353,Alberta-British Columbia foothills forests,NA,5,2,50502,70,1,,0,0,0,NA0502,0,0,0,45349,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,17
+2960,5902,84.457,West Sudanian savanna,AT,7,22,30722,218,2,,0,0,0,AT0722,0,0,0,1631858,20,20,22,Yankari,,,Nigeria,WCS areas of work,Central Africa,0,1,Africa,2761
+2982,2414,0.136,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,9,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,9
+2983,2415,0.205,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,25,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,25
+2984,2416,0.175,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,12,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,12
+2985,2417,0.325,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,16,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,16
+2987,2419,0.413,Ucayali moist forests,NT,1,74,60174,69,2,Napo Moist Forests,43,1,0,NT0174,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+2989,2421,0.438,Ucayali moist forests,NT,1,74,60174,69,2,Napo Moist Forests,43,1,0,NT0174,0,0,0,25,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,25
+2990,2422,0.535,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,50,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,50
+2991,2423,0.133,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,10,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,10
+2992,2424,30.236,Peruvian Yungas,NT,1,53,60153,76,1,Central Andean Yungas,46,1,0,NT0153,0,0,0,33666,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,1810
+2997,2429,1.114,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,87,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,87
+2999,2431,0.46,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,31,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,22
+3001,2433,0.129,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+3003,2435,0.551,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,29,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,28
+3006,2438,0.227,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,11,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,11
+3008,2440,0.165,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+3009,2441,0.104,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,0
+3011,2443,0.096,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,6,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,6
+3041,2473,0.154,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,5,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+3042,2474,0.159,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,8,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,5
+3047,2479,0.329,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,14,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,14
+3049,2481,0.153,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,7,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,7
+3051,2483,6.883,Iquitos varze├í,NT,1,28,60128,70,2,Amazon River and Flooded Forests,147,1,0,NT0128,0,0,0,3835,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,19
+3113,2545,82.792,Peruvian Yungas,NT,1,53,60153,76,1,Central Andean Yungas,46,1,0,NT0153,0,0,0,126533,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,6453
+3177,2609,0.559,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,126,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,126
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,0,0,2,Cape Krusenstern,n,4,USA,WCS areas of work,Arctic Beringia,3,4,North America,2608
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,90
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,2,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,12683
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,3,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,7
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,7761
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,91
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,11,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,8704
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,12,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,16731
+3209,2659,5.856,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1168,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,431
+3213,2663,0.59,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,107,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,93
+3219,2669,6.064,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1550,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1378
+3248,2738,19.901,Saharan flooded grasslands,AT,9,5,30905,47,2,Sudd-Sahelian flooded grasslands and savannas,97,9,1,AT0905,0,0,0,178952,48,48,63,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,1348
+3248,2738,19.901,Saharan flooded grasslands,AT,9,5,30905,47,2,Sudd-Sahelian flooded grasslands and savannas,97,9,1,AT0905,0,0,0,178952,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,3600
+3248,2738,19.901,Saharan flooded grasslands,AT,9,5,30905,47,2,Sudd-Sahelian flooded grasslands and savannas,97,9,1,AT0905,0,0,0,178952,50,50,65,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,8352
+3248,2738,19.901,Saharan flooded grasslands,AT,9,5,30905,47,2,Sudd-Sahelian flooded grasslands and savannas,97,9,1,AT0905,0,0,0,178952,51,51,66,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,5131
+3277,2785,4.691,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,1296,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,147
+3279,2787,25.837,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,10282,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,7309
+3283,2811,66.055,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,110327,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,16147
+3291,2819,0.974,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,281,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,203
+3296,2824,0.623,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,102,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,102
+3299,2827,7.855,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,2771,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,2759
+3302,2830,2.079,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,401,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,401
+3304,2832,3.357,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,1678,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,1678
+3309,2837,0.287,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,49,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,49
+3311,2839,37.094,Central Andean wet puna,NT,10,3,61003,49,2,,0,0,0,NT1003,0,0,0,67605,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,6947
+3312,2840,1.139,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,365,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,365
+3314,2842,1.617,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,828,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,828
+3316,2844,0.878,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,321,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,321
+3322,2850,0.376,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,75,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,75
+3326,2854,27.527,Bolivian Yungas,NT,1,5,60105,72,2,Central Andean Yungas,46,1,0,NT0105,0,0,0,90229,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,43751
+3327,2855,2.607,Beni savanna,NT,7,2,60702,84,1,,0,0,0,NT0702,0,0,0,892,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,892
+3333,2861,2.339,Bolivian montane dry forests,NT,2,6,60206,90,1,,0,0,0,NT0206,0,0,0,777,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,777
+3345,2873,2.016,Bolivian montane dry forests,NT,2,6,60206,90,1,,0,0,0,NT0206,0,0,0,1972,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,92
+3420,2983,49.658,Chilean matorral,NT,12,1,61201,110,1,Chilean Matorral,122,12,0,NT1201,0,0,0,148376,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,544
+3434,2997,44.024,Southern Andean steppe,NT,10,8,61008,129,3,,0,0,0,NT1008,0,0,0,113126,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,2028
+3434,2997,44.024,Southern Andean steppe,NT,10,8,61008,129,3,,0,0,0,NT1008,0,0,0,113126,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,5743
+3476,3039,52.862,Low Monte,NT,8,2,60802,85,2,,0,0,0,NT0802,0,0,0,353640,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,28625
+3476,3039,52.862,Low Monte,NT,8,2,60802,85,2,,0,0,0,NT0802,0,0,0,353640,34,34,38,Valdes,,,Argentina,WCS areas of work,Patagonia,5,6,South America,6494
+3481,3044,90.037,Valdivian temperate forests,NT,4,4,60404,53,1,Valdivian Temperate Rain Forests / Juan Fern├índez Islands,76,4,0,NT0404,0,0,0,226164,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,5276
+3481,3044,90.037,Valdivian temperate forests,NT,4,4,60404,53,1,Valdivian Temperate Rain Forests / Juan Fern├índez Islands,76,4,0,NT0404,0,0,0,226164,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,3413
+3482,3045,82.236,Patagonian steppe,NT,8,5,60805,87,1,Patagonian Steppe,95,8,0,NT0805,0,0,0,538614,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,41466
+3482,3045,82.236,Patagonian steppe,NT,8,5,60805,87,1,Patagonian Steppe,95,8,0,NT0805,0,0,0,538614,34,34,38,Valdes,,,Argentina,WCS areas of work,Patagonia,5,6,South America,11353
+3487,3050,1.557,Patagonian steppe,NT,8,5,60805,87,1,Patagonian Steppe,95,8,0,NT0805,0,0,0,1213,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,1213
+3717,5401,0.123,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+3720,5404,0.169,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,1
+3721,5405,0.488,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,32,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,32
+3722,5406,0.408,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,16,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,16
+3745,7058,2.417,Alberta-British Columbia foothills forests,NA,5,2,50502,70,1,,0,0,0,NA0502,0,0,0,1639,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,1639
+3746,7059,46.78,Great Lakes Basin desert steppe,PA,13,16,81316,147,2,Altai-Sayan montane forests,79,5,2,PA1316,0,0,0,157706,64,63,92,Saiga Range,,,Mongolia,"WCS areas of work, I",Temperate Asia,1,2,Asia,30049
+3772,10971,5.375,Fiji tropical dry forests,OC,2,1,70201,243,1,Southern Pacific Islands forests,49,1,1,OC0201,0,0,0,2326,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,816
+3834,9830,18.075,South Deccan Plateau dry deciduous forests,IM,2,9,40209,384,1,,0,0,0,IM0209,0,0,0,81925,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,6167
+3836,5409,0.209,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,11,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,10
+3842,5415,0.392,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,14,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,14
+3844,5417,2.386,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,546,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,546
+3845,5418,0.227,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,9,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,8
+3857,5718,0.906,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,25,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,25
+3879,6430,15.569,Northern transitional alpine forests,NA,5,21,50521,65,2,,0,0,0,NA0521,0,0,0,22892,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,66
+3949,3415,9.085,Patagonian steppe,NT,8,5,60805,87,1,Patagonian Steppe,95,8,0,NT0805,0,0,0,15080,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,14795
+3960,3489,0.839,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,77,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,62
+3961,3490,18.45,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,4151,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,3787
+3985,3613,0.635,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,117,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,112
+3988,3616,0.69,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,169,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,143
+3990,3618,0.463,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,32,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,4
+4068,4301,0.661,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,17,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+4070,4303,7.01,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,1688,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,1662
+4114,3439,2.156,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1623,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1553
+4136,3461,17.201,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,24959,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,24489
+4138,3463,3.454,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1303,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1197
+4144,3469,5.702,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1119,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,6
+4149,3474,0.849,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,153,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,138
+4161,3486,5.582,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,633,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,539
+4162,3487,4.434,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,2561,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,2454
+4225,3573,10.922,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,1722,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,1417
+4229,3598,0.514,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,74,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,69
+4230,3599,1.305,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,206,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,199
+4231,3600,2.824,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,251,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,209
+4232,3601,0.959,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,136,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,111
+4233,3602,3.199,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,592,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,551
+4235,3604,0.66,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,100,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,93
+4237,3606,0.228,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,9,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,0
+4241,3631,0.301,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,15,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,0
+4242,3632,0.724,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,70,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,54
+4248,3638,1.841,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,215,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,184
+4252,3642,1.325,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,111,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,73
+4254,3644,0.597,Magellanic subpolar forests,NT,4,2,60402,76,3,,0,0,0,NT0402,0,0,0,64,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,48
+4256,3646,76.757,Japur├í-Solimoes-Negro moist forests,NT,1,32,60132,61,3,Rio Negro-Juru├í Moist Forests,44,1,0,NT0132,0,0,0,267836,46,46,61,Lower R├¡o Negro,,,Brazil,WCS areas of work,AAO,5,6,South America,64795
+4260,3650,99.465,Solim├Áes-Japur├í moist forests,NT,1,63,60163,73,3,Rio Negro-Juru├í Moist Forests,44,1,0,NT0163,0,0,0,165156,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,13232
+4651,4175,5.929,Wrangel Island arctic desert,PA,11,13,81113,352,3,Chukhote coastal tundra,117,11,3,PA1113,0,0,0,5104,4,4,6,Natural System of Wrangel Island Reserve,y,1,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,5079
+4747,4362,0.217,Arctic coastal tundra,NA,11,3,51103,52,3,Alaskan North Slope coastal tundra,113,11,3,NA1103,0,0,0,7,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,5
+4761,5523,0.195,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+4767,5529,0.25,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,6,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,6
+4779,5647,23.529,Beringia upland tundra,NA,11,7,51107,23,3,,0,0,0,NA1107,0,0,0,50438,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,12244
+4779,5647,23.529,Beringia upland tundra,NA,11,7,51107,23,3,,0,0,0,NA1107,0,0,0,50438,8,8,10,Togiak NWR,n,23,USA,WCS areas of work,Arctic Beringia,3,4,North America,16500
+4795,8865,2.638,Eastern Himalayan subalpine conifer forests,IM,5,1,40501,226,2,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0501,0.196412714,0,0,2056,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,82
+4866,7485,1.923,Changbai Mountains mixed forests,PA,4,14,80414,61,1,,0,0,0,PA0414,0,0,0,2328,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,2328
+4896,8300,14.615,Northwestern Himalayan alpine shrub and meadows,PA,10,12,81012,384,3,,0,0,0,PA1012,0,0,0,21823,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1195
+4901,8305,3.933,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1391,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1333
+4925,8745,0.252,Western Himalayan alpine shrub and Meadows,PA,10,21,81021,86,3,,0,0,0,PA1021,0,0,0,33,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,33
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,30544
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,2,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,13508
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,3,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,2900
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,45235
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,11,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,14
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,12,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,8575
+5055,4498,157.685,Northwest Territories taiga,NA,6,14,50614,49,3,Canadian boreal taiga,82,6,3,NA0614,0,0,0,347570,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,5
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,2492
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,2,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,343
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,3,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,4056
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,10579
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,4349
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,13902
+5081,4524,35.663,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,28719,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,10477
+5200,10310,0.598,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,127,104,103,145,,,,Philippines,,,1,2,Asia,123
+5203,10313,0.151,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,13,104,103,145,,,,Philippines,,,1,2,Asia,1
+5227,6123,15.11,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,5202,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,47
+5228,6124,1.034,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,118,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,11
+5302,4636,3.195,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,2660,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,2660
+5407,4741,3.699,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,1162,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,167
+5427,4761,62.274,Ogilvie-MacKenzie alpine tundra,NA,11,16,51116,38,3,,0,0,0,NA1116,0,0,0,209808,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,1122
+5427,4761,62.274,Ogilvie-MacKenzie alpine tundra,NA,11,16,51116,38,3,,0,0,0,NA1116,0,0,0,209808,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,35845
+5459,4793,0.211,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+5479,4813,69.77,Muskwa-Slave Lake forests,NA,6,10,50610,65,3,Muskwa/Slave Lake Boreal Forests,81,6,3,NA0610,0,0,0,263806,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,32
+5480,4814,2.287,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,758,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,57
+5482,4816,2.628,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,829,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,31
+5537,4871,70.253,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,179728,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,118893
+5580,5514,0.178,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+5582,5532,0.347,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,30,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,30
+5586,5536,2.885,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,2265,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,2190
+5588,5538,0.257,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,11,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,11
+5589,5539,0.128,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+5592,5542,0.8,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,81,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,81
+5594,5544,0.347,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,10,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,9
+5612,6878,57.74,Manchurian mixed forests,PA,4,26,80426,70,1,,0,0,0,PA0426,0,0,0,246127,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,78984
+5617,7363,53.852,Eastern Gobi desert steppe,PA,13,14,81314,105,2,,0,0,0,PA1314,0,0,0,282368,63,62,89,Gobi,,,Mongolia,WCS areas of work,Temperate Asia,1,2,Asia,33560
+5621,7367,11.382,Suiphun-Khanka meadows and forest meadows,PA,9,7,80907,226,1,,0,0,0,PA0907,0,0,0,33836,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,9059
+5622,7368,32.412,Blue Mountains forests,NA,5,5,50505,64,1,,0,0,0,NA0505,0,0,0,63465,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,4559
+5626,7372,1.097,Blue Mountains forests,NA,5,5,50505,64,1,,0,0,0,NA0505,0,0,0,298,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,298
+5639,8781,32.55,Eastern Himalayan broadleaf forests,IM,4,1,40401,73,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0401,1.1054105441,0,0,51008,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,464
+5639,8781,32.55,Eastern Himalayan broadleaf forests,IM,4,1,40401,73,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0401,1.1054105441,0,0,51008,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,119
+5790,5116,0.65,Chukchi Peninsula tundra,PA,11,4,81104,42,3,Chukhote coastal tundra,117,11,3,PA1104,0,0,0,91,9,9,11,Beringia NP,y,2,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,30
+5900,5170,163.622,Alaska-St. Elias Range tundra,NA,11,1,51101,42,3,,0,0,0,NA1101,0,0,0,150692,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,24023
+5982,5252,39.383,Yukon Interior dry forests,NA,6,17,50617,65,2,,0,0,0,NA0617,0,0,0,62742,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,62742
+6011,5281,12.778,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,6909,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,5172
+6027,5297,1.28,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,121,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,28
+6039,5309,0.672,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,54,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,54
+6078,5348,2.376,Interior Yukon-Alaska alpine tundra,NA,11,11,51111,36,3,,0,0,0,NA1111,0,0,0,1055,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,601
+6091,5361,2.194,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,456,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,453
+6099,5369,0.132,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6100,5370,1.192,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,191,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,188
+6101,5371,0.236,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,15,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,15
+6102,5372,0.102,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6106,5376,0.226,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,11,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,11
+6108,5378,0.385,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,24,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,24
+6110,5380,0.183,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,5
+6111,5381,0.252,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,8,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,8
+6112,5382,0.197,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,10,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,10
+6114,5384,0.315,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,18,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,15
+6115,5385,0.136,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6116,5386,0.136,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6118,5388,2.056,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,265,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,265
+6119,5389,0.394,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,21,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,21
+6120,5390,0.152,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,5
+6128,5398,0.407,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,25,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,25
+6131,5421,0.27,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,9,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,8
+6133,5423,0.149,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6135,5425,0.558,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,30,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,30
+6137,5427,0.634,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,57,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,57
+6140,5430,0.227,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6142,5432,0.166,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,6,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,6
+6143,5433,0.596,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,57,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,57
+6147,5437,2.093,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,260,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,260
+6149,5439,0.126,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6157,5447,0.206,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6161,5451,0.285,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,13,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,13
+6162,5452,0.499,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,24,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,24
+6167,5457,0.437,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,16,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,16
+6180,5470,0.265,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,14,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,14
+6181,5471,1.282,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,186,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,146
+6182,5472,0.991,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,49,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,49
+6184,5474,0.375,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,12,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,12
+6188,5478,0.345,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,13,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,13
+6193,5483,0.86,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,58,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,58
+6195,5485,0.253,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,6,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,6
+6196,5486,2.84,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,339,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,334
+6197,5487,0.354,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,12,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,12
+6199,5489,0.206,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,4,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+6200,5490,0.331,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,8,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,8
+6203,5493,0.245,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,8,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,8
+6206,5496,44.354,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,52781,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,50781
+6207,5497,76.37,Northern Cordillera forests,NA,6,13,50613,63,2,Muskwa/Slave Lake Boreal Forests,81,6,3,NA0613,0,0,0,264234,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,264030
+6216,5506,0.152,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6222,5548,0.216,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,7,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,7
+6231,5557,0.16,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6244,5570,0.264,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,10,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,10
+6246,5572,0.648,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,24,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,24
+6249,5575,0.426,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,17,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,17
+6250,5576,0.232,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,9,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,9
+6258,5584,0.267,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,7,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,7
+6263,5589,0.147,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6274,5600,82.459,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,60247,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,37
+6279,5605,0.309,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,18,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,18
+6317,5658,0.151,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6393,5752,0.152,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+6400,5759,0.145,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,3,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,3
+6473,5851,70.732,Northern mixed grasslands,NA,8,10,50810,268,1,,0,0,0,NA0810,0,0,0,211344,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,17915
+6494,5872,5.842,Afghan Mountains semi-desert,PA,13,1,81301,43,1,,0,0,0,PA1301,0,0,0,6078,95,94,131,SAIGHAN,,,Afghanistan,,,1,2,Asia,1116
+6494,5872,5.842,Afghan Mountains semi-desert,PA,13,1,81301,43,1,,0,0,0,PA1301,0,0,0,6078,96,95,132,YAKAWLANG,,,Afghanistan,,,1,2,Asia,289
+6494,5872,5.842,Afghan Mountains semi-desert,PA,13,1,81301,43,1,,0,0,0,PA1301,0,0,0,6078,98,97,136,KAHMARD,,,Afghanistan,,,1,2,Asia,1433
+6495,5873,55.613,Ghorat-Hazarajat alpine meadow,PA,10,4,81004,54,2,,0,0,0,PA1004,0,0,0,63411,95,94,131,SAIGHAN,,,Afghanistan,,,1,2,Asia,993
+6495,5873,55.613,Ghorat-Hazarajat alpine meadow,PA,10,4,81004,54,2,,0,0,0,PA1004,0,0,0,63411,96,95,132,YAKAWLANG,,,Afghanistan,,,1,2,Asia,6086
+6495,5873,55.613,Ghorat-Hazarajat alpine meadow,PA,10,4,81004,54,2,,0,0,0,PA1004,0,0,0,63411,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,1
+6495,5873,55.613,Ghorat-Hazarajat alpine meadow,PA,10,4,81004,54,2,,0,0,0,PA1004,0,0,0,63411,98,97,136,KAHMARD,,,Afghanistan,,,1,2,Asia,5
+6499,5877,83.427,Central Afghan Mountains xeric woodlands,PA,13,9,81309,117,1,,0,0,0,PA1309,0,0,0,137041,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,759
+6502,5880,1.58,Sierra Madre Occidental pine-oak forests,NA,3,2,50302,76,1,Sierra Madre Oriental and Occidental pine-oak forests,61,3,1,NA0302,0,0,0,596,106,105,147,Greater Gila,,,USA,,,3,4,North America,57
+6503,5881,0.993,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,94,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,94
+6514,5930,0.975,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,428,104,103,145,,,,Philippines,,,1,2,Asia,420
+6527,5943,0.157,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,5,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,5
+6531,5947,0.336,Beringia lowland tundra,NA,11,6,51106,52,3,,0,0,0,NA1106,0,0,0,28,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,16
+6553,5969,18.442,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,6533,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,58
+6679,6096,14.043,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,4350,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,58
+6701,6118,20.112,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2464,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,255
+6705,6122,0.286,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,9,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,1
+6706,6142,17.261,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,4740,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,300
+6719,6155,0.152,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,5,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,1
+6722,6158,0.446,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,15,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,2
+6723,6159,117.435,Midwestern Canadian Shield forests,NA,6,9,50609,64,2,,0,0,0,NA0609,0,0,0,548394,89,88,125,,,,Canada,,Northern Boreal,3,4,North America,86834
+6724,6160,0.059,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,1,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,1
+6728,6164,0.063,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,1,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,1
+6743,6179,1.713,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,179,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,3
+6780,6216,78.02,Southern Hudson Bay taiga,NA,6,16,50616,63,3,,0,0,0,NA0616,0,0,0,371694,89,88,125,,,,Canada,,Northern Boreal,3,4,North America,259588
+6844,6296,89.294,Okhotsk-Manchurian taiga,PA,6,6,80606,71,2,,0,0,0,PA0606,0,0,0,401170,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,94793
+6860,6330,25.42,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,5706,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,0
+6878,6348,20.636,Pacific Coastal Mountain icefields and tundra,NA,11,17,51117,128,3,,0,0,0,NA1117,0,0,0,11619,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,46
+6961,6449,30.057,Central British Columbia Mountain forests,NA,5,9,50509,77,2,,0,0,0,NA0509,0,0,0,72090,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,165
+7130,6618,41.604,Alberta-British Columbia foothills forests,NA,5,2,50502,70,1,,0,0,0,NA0502,0,0,0,74029,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,4357
+7192,6680,90.846,Canadian Aspen forests and parklands,NA,8,2,50802,73,1,,0,0,0,NA0802,0,0,0,289313,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,7302
+7216,6723,96.791,Central Canadian Shield forests,NA,6,2,50602,75,2,,0,0,0,NA0602,0,0,0,462713,89,88,125,,,,Canada,,Northern Boreal,3,4,North America,104512
+7255,6762,23.522,Alberta Mountain forests,NA,5,1,50501,65,3,,0,0,0,NA0501,0,0,0,39933,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,3776
+7288,6795,57.091,North Central Rockies forests,NA,5,18,50518,76,2,,0,0,0,NA0518,0,0,0,246515,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,33675
+7288,6795,57.091,North Central Rockies forests,NA,5,18,50518,76,2,,0,0,0,NA0518,0,0,0,246515,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,37135
+7310,8083,2.2,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1206,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1206
+7321,8094,51.41,Sonoran desert,NA,13,10,51310,111,3,Sonoran-Baja Deserts,130,13,3,NA1310,0,0,0,221393,106,105,147,Greater Gila,,,USA,,,3,4,North America,11417
+7394,11797,48.316,Northern New Guinea lowland rain and freshwater swamp forests,AA,1,15,10115,344,1,,0,0,0,AA0115,0,0,0,134415,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,1158
+7451,6935,4.082,East Afghan montane conifer forests,PA,5,6,80506,76,2,,0,0,0,PA0506,0,0,0,1951,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,58
+7455,6939,97.031,Southeast Tibet shrublands and meadows,PA,10,17,81017,151,1,Tibetan Plateau steppe,110,10,2,PA1017,0,0,0,331368,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,127
+7457,6941,2.353,Arizona Mountains forests,NA,5,3,50503,77,3,,0,0,0,NA0503,0,0,0,2482,106,105,147,Greater Gila,,,USA,,,3,4,North America,1589
+7458,6942,112.213,Baluchistan xeric woodlands,PA,13,7,81307,150,1,,0,0,0,PA1307,0,0,0,288424,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,124
+7545,7029,70.207,Northern short grasslands,NA,8,11,50811,84,1,Northern Prairies,94,8,1,NA0811,0,0,0,640109,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,96812
+7545,7029,70.207,Northern short grasslands,NA,8,11,50811,84,1,Northern Prairies,94,8,1,NA0811,0,0,0,640109,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,6087
+7557,7041,14.362,Amur meadow steppe,PA,9,1,80901,59,2,,0,0,0,PA0901,0,0,0,51001,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,9056
+7564,7048,52.833,Montana Valley and Foothill grasslands,NA,8,8,50808,150,1,,0,0,0,NA0808,0,0,0,67038,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,23731
+7564,7048,52.833,Montana Valley and Foothill grasslands,NA,8,8,50808,150,1,,0,0,0,NA0808,0,0,0,67038,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,36606
+7587,7103,46.502,Ussuri broadleaf and mixed forests,PA,4,43,80443,268,2,Russian Far East broadleaf and mixed forests,71,4,2,PA0443,0,0,0,197832,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,165876
+7614,7145,5.868,Northern mixed grasslands,NA,8,10,50810,268,1,,0,0,0,NA0810,0,0,0,8270,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,6388
+7630,7201,15.983,Amur meadow steppe,PA,9,1,80901,59,2,,0,0,0,PA0901,0,0,0,72621,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,27515
+7633,7204,52.024,Palouse grasslands,NA,8,13,50813,78,1,,0,0,0,NA0813,0,0,0,46993,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,6186
+7658,7248,86.833,Northeast China Plain deciduous forests,PA,4,30,80430,73,1,,0,0,0,PA0430,0,0,0,224838,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,2648
+7697,7306,97.724,Manchurian mixed forests,PA,4,26,80426,70,1,,0,0,0,PA0426,0,0,0,259160,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,104515
+7709,7318,31.563,South Central Rockies forests,NA,5,28,50528,70,2,,0,0,0,NA0528,0,0,0,77347,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,67030
+7730,7339,27.35,South Central Rockies forests,NA,5,28,50528,70,2,,0,0,0,NA0528,0,0,0,59983,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,55284
+7743,7352,9.538,Montana Valley and Foothill grasslands,NA,8,8,50808,150,1,,0,0,0,NA0808,0,0,0,8266,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,1103
+7767,7395,2.253,Blue Mountains forests,NA,5,5,50505,64,1,,0,0,0,NA0505,0,0,0,337,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,1
+7780,7408,1.2,South Central Rockies forests,NA,5,28,50528,70,2,,0,0,0,NA0528,0,0,0,800,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,800
+7782,7410,2.213,Changbai Mountains mixed forests,PA,4,14,80414,61,1,,0,0,0,PA0414,0,0,0,2376,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,2376
+7784,7412,75.507,Alashan Plateau semi-desert,PA,13,2,81302,85,2,,0,0,0,PA1302,0,0,0,674352,63,62,89,Gobi,,,Mongolia,WCS areas of work,Temperate Asia,1,2,Asia,64093
+7806,7434,51.055,Snake-Columbia shrub steppe,NA,13,9,51309,104,1,,0,0,0,NA1309,0,0,0,175135,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,39247
+7809,7437,30.281,Wyoming Basin shrub steppe,NA,13,13,51313,92,2,,0,0,0,NA1313,0,0,0,130729,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,11017
+7839,8674,9.025,Yarlung Tsangpo arid steppe,PA,10,22,81022,120,1,Tibetan Plateau steppe,110,10,2,PA1022,0,0,0,8092,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1072
+7852,9545,18.472,North Western Ghats montane rain forests,IM,1,35,40135,62,1,,0,0,0,IM0135,0,0,0,30825,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,20043
+7858,9551,24.483,Luang Prabang montane rain forests,IM,1,21,40121,75,2,,0,0,0,IM0121,3.6487931002,0,0,71585,79,78,110,,,,Laos,,Greater Mekong,1,2,Asia,781
+7887,10994,26.448,Sumatran montane rain forests,IM,1,59,40159,74,3,Sumatran Islands lowland and montane forests,26,1,1,IM0159,0,0,0,33313,103,102,144,,,,Indonesia,,,1,2,Asia,18414
+7898,11074,1.775,Sumatran tropical pine forests,IM,3,4,40304,60,2,Sumatran Islands lowland and montane forests,26,1,1,IM0304,0,0,0,894,103,102,144,,,,Indonesia,,,1,2,Asia,894
+7932,7451,3.325,South Central Rockies forests,NA,5,28,50528,70,2,,0,0,0,NA0528,0,0,0,2340,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,2340
+7957,7476,0.912,Changbai Mountains mixed forests,PA,4,14,80414,61,1,,0,0,0,PA0414,0,0,0,410,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,410
+7982,7533,23.063,Changbai Mountains mixed forests,PA,4,14,80414,61,1,,0,0,0,PA0414,0,0,0,85596,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,12419
+7986,7537,56.85,Great Basin shrub steppe,NA,13,5,51305,113,3,,0,0,0,NA1305,0,0,0,336212,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,5377
+7991,7542,81.765,Taklimakan desert,PA,13,30,81330,25,1,,0,0,0,PA1330,0,0,0,742657,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,52
+8010,7561,0.441,Ussuri broadleaf and mixed forests,PA,4,43,80443,268,2,Russian Far East broadleaf and mixed forests,71,4,2,PA0443,0,0,0,121,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,95
+8038,7589,20.439,Wasatch and Uinta montane forests,NA,5,30,50530,71,1,,0,0,0,NA0530,0,0,0,37098,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,83
+8078,7645,87.399,Colorado Plateau shrublands,NA,13,4,51304,107,3,,0,0,0,NA1304,0,0,0,326501,106,105,147,Greater Gila,,,USA,,,3,4,North America,13499
+8127,7694,70.374,Pamir alpine desert and tundra,PA,10,14,81014,124,2,Middle Asian montane woodlands and steppe,111,10,2,PA1014,0,0,0,114718,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,7
+8127,7694,70.374,Pamir alpine desert and tundra,PA,10,14,81014,124,2,Middle Asian montane woodlands and steppe,111,10,2,PA1014,0,0,0,114718,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,4997
+8156,7723,25.624,Qaidam Basin semi-desert,PA,13,24,81324,147,2,,0,0,0,PA1324,0,0,0,192147,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,10059
+8191,7793,81.117,North Tibetan Plateau-Kunlun Mountains alpine desert,PA,10,11,81011,93,3,,0,0,0,PA1011,0,0,0,374494,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,272260
+8242,7850,111.558,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,612343,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,495104
+8243,7851,6.58,Hindu Kush alpine meadow,PA,10,5,81005,121,2,Middle Asian montane woodlands and steppe,111,10,2,PA1005,0,0,0,7495,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,342
+8250,7858,39.336,Paropamisus xeric woodlands,PA,13,22,81322,89,2,,0,0,0,PA1322,0,0,0,92609,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,669
+8250,7858,39.336,Paropamisus xeric woodlands,PA,13,22,81322,89,2,,0,0,0,PA1322,0,0,0,92609,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,1294
+8250,7858,39.336,Paropamisus xeric woodlands,PA,13,22,81322,89,2,,0,0,0,PA1322,0,0,0,92609,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,770
+8250,7858,39.336,Paropamisus xeric woodlands,PA,13,22,81322,89,2,,0,0,0,PA1322,0,0,0,92609,96,95,132,YAKAWLANG,,,Afghanistan,,,1,2,Asia,177
+8284,7991,0.208,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,22,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,22
+8285,7992,13.408,Hindu Kush alpine meadow,PA,10,5,81005,121,2,Middle Asian montane woodlands and steppe,111,10,2,PA1005,0,0,0,20171,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,515
+8285,7992,13.408,Hindu Kush alpine meadow,PA,10,5,81005,121,2,Middle Asian montane woodlands and steppe,111,10,2,PA1005,0,0,0,20171,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,2693
+8286,7993,0.451,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,35,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,34
+8291,7998,0.622,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,52,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,50
+8302,8133,1.679,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,423,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,423
+8309,8140,2.932,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1268,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1268
+8311,8142,4.995,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1990,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1990
+8328,8475,5.708,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,3411,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1054
+8347,8375,2.934,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1306,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1306
+8390,10361,0.8,Greater Negros-Panay rain forests,IM,1,14,40114,71,1,Philippines moist forests,27,1,1,IM0114,0,0,0,327,104,103,145,,,,Philippines,,,1,2,Asia,322
+8418,11102,43.737,Western Congolian swamp forests,AT,1,29,30129,221,3,Western Congo Basin moist forests,6,1,2,AT0129,0,0,0,128060,21,21,23,Ndoki-Likouala,,,Congo,WCS areas of work,Central Africa,0,1,Africa,15483
+8520,7935,93.558,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,142948,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,21299
+8520,7935,93.558,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,142948,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,38
+8520,7935,93.558,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,142948,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,3747
+8520,7935,93.558,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,142948,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,603
+8563,7978,0.195,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,7,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,7
+8567,7982,0.137,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,6,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,6
+8568,7983,9.755,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1745,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,27
+8571,7986,0.255,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,27,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,27
+8574,7989,0.19,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,8,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,8
+8582,8010,0.795,Karakoram-West Tibetan Plateau alpine steppe,PA,10,6,81006,91,2,Tibetan Plateau steppe,110,10,2,PA1006,0,0,0,131,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,131
+8601,8029,55.42,Tibetan Plateau alpine shrublands and meadows,PA,10,20,81020,116,2,Tibetan Plateau steppe,110,10,2,PA1020,0,0,0,271999,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,94355
+8610,8038,8.433,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2566,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,2161
+8620,8048,11.514,Northwestern Himalayan alpine shrub and meadows,PA,10,12,81012,384,3,,0,0,0,PA1012,0,0,0,12358,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,102
+8624,8052,22.781,Arizona Mountains forests,NA,5,3,50503,77,3,,0,0,0,NA0503,0,0,0,82563,106,105,147,Greater Gila,,,USA,,,3,4,North America,66844
+8637,8065,10.088,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,7432,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,7432
+8641,8069,14.149,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,15804,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,14907
+8672,8116,3.422,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1216,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,198
+8673,8117,3.399,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2131,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,2091
+8684,8145,0.299,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,26,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,26
+8696,8157,168.68,Chihuahuan desert,NA,13,3,51303,113,2,Chihuahuan-Tehuac├ín Deserts,131,13,2,NA1303,0,0,0,505882,106,105,147,Greater Gila,,,USA,,,3,4,North America,8222
+8705,8166,3.16,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1248,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,449
+8710,8171,1.091,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,229,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,229
+8757,8218,68.501,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,281505,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,11918
+8757,8218,68.501,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,281505,50,50,65,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,586
+8757,8218,68.501,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,281505,51,51,66,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,2598
+8764,8225,7.481,Chao Phraya lowland moist deciduous forests,IM,1,8,40108,221,1,,0,0,0,IM0108,0.849913343,0,0,7011,86,85,122,,,,Thailand,,Greater Mekong,1,2,Asia,246
+8769,8230,0.569,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,251,104,103,145,,,,Philippines,,,1,2,Asia,247
+8797,8276,60.85,Western Congolian forest-savanna mosaic,AT,7,23,30723,90,1,,0,0,0,AT0723,0,0,0,407086,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,41989
+8830,8326,3.575,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1145,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1145
+8848,8344,0.169,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,7,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,7
+8858,8354,43.867,Nujiang Langcang Gorge alpine conifer and mixed forests,PA,5,16,80516,71,1,Hengduan Shan conifer forests,80,5,3,PA0516,0.304677962,0,0,80936,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,330
+8863,8359,63.121,Western Himalayan alpine shrub and Meadows,PA,10,21,81021,86,3,,0,0,0,PA1021,0,0,0,70058,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,37024
+8893,8417,56.867,Southeast Tibet shrublands and meadows,PA,10,17,81017,151,1,Tibetan Plateau steppe,110,10,2,PA1017,0,0,0,64870,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1276
+8928,8452,5.07,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2601,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,2601
+8940,8483,2.214,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1467,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1467
+8942,8485,2.041,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1093,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1093
+8953,8496,0.544,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,178,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,178
+8961,8504,0.378,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,79,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,34
+8988,8531,70.382,Southeastern Indochina dry evergreen forests,IM,2,10,40210,77,1,Indochina dry forests,54,2,1,IM0210,8.1575968013,0,0,123784,75,74,106,,,,Thailand,,Greater Mekong,1,2,Asia,1868
+8988,8531,70.382,Southeastern Indochina dry evergreen forests,IM,2,10,40210,77,1,Indochina dry forests,54,2,1,IM0210,8.1575968013,0,0,123784,76,75,107,,,,Cambodia,,Greater Mekong,1,2,Asia,2374
+8988,8531,70.382,Southeastern Indochina dry evergreen forests,IM,2,10,40210,77,1,Indochina dry forests,54,2,1,IM0210,8.1575968013,0,0,123784,77,76,108,,,,Cambodia,,Greater Mekong,1,2,Asia,2759
+9038,8597,4.845,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1988,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1988
+9039,8598,0.123,Central Tibetan Plateau alpine steppe,PA,10,2,81002,337,3,Tibetan Plateau steppe,110,10,2,PA1002,0,0,0,6,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,6
+9049,8608,2.913,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1282,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,29
+9050,8609,5.764,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,5196,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,4599
+9052,8611,4.184,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2055,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,665
+9061,8620,4.097,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1393,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,659
+9063,8622,4.204,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,2179,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,2134
+9081,8640,2.499,Yarlung Tsangpo arid steppe,PA,10,22,81022,120,1,Tibetan Plateau steppe,110,10,2,PA1022,0,0,0,1234,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,1234
+9096,8655,44.313,Yarlung Tsangpo arid steppe,PA,10,22,81022,120,1,Tibetan Plateau steppe,110,10,2,PA1022,0,0,0,41120,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,3108
+9104,8663,13.422,Eastern Himalayan alpine shrub and meadows,PA,10,3,81003,42,3,Eastern Himalayan alpine meadows,112,10,3,PA1003,0.0759345386,0,0,13866,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,5393
+9146,8721,2.583,Rock and Ice,,99,0,-9999,82,0,,-9999,0,0,Rock and Ice,0,0,0,1606,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,692
+9160,8735,63.571,Eastern Himalayan alpine shrub and meadows,PA,10,3,81003,42,3,Eastern Himalayan alpine meadows,112,10,3,PA1003,0.0759345386,0,0,54997,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,2025
+9254,8885,12.603,Northern Triangle temperate forests,IM,4,2,40402,267,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0402,0.3269146176,0,0,10709,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,3100
+9254,8885,12.603,Northern Triangle temperate forests,IM,4,2,40402,267,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0402,0.3269146176,0,0,10709,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,1865
+9314,8959,15.925,Northern Triangle subtropical forests,IM,1,40,40140,71,3,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0140,3.176581858,0,0,53774,82,81,116,,,,Myanmar,,Greater Mekong,1,2,Asia,23
+9314,8959,15.925,Northern Triangle subtropical forests,IM,1,40,40140,71,3,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0140,3.176581858,0,0,53774,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,23946
+9314,8959,15.925,Northern Triangle subtropical forests,IM,1,40,40140,71,3,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0140,3.176581858,0,0,53774,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,680
+9369,9014,56.201,Northern Indochina subtropical forests,IM,1,37,40137,221,2,North Indochina subtropical moist forests,22,1,2,IM0137,17.6272355554,0,0,435869,79,78,110,,,,Laos,,Greater Mekong,1,2,Asia,5242
+9392,9037,43.997,Mizoram-Manipur-Kachin rain forests,IM,1,31,40131,75,2,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0131,8.9634410688,0,0,135245,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,3106
+9392,9037,43.997,Mizoram-Manipur-Kachin rain forests,IM,1,31,40131,75,2,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0131,8.9634410688,0,0,135245,82,81,116,,,,Myanmar,,Greater Mekong,1,2,Asia,5160
+9392,9037,43.997,Mizoram-Manipur-Kachin rain forests,IM,1,31,40131,75,2,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0131,8.9634410688,0,0,135245,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,396
+9468,9141,39.957,Irrawaddy moist deciduous forests,IM,1,17,40117,78,2,,0,0,0,IM0117,4.8126267668,0,0,129449,84,83,118,,,,Myanmar,,Greater Mekong,1,2,Asia,2309
+9571,9272,14.337,Sundarbans mangroves,IM,14,6,41406,119,1,Sundarbans mangroves,139,14,1,IM1406,3.17872899265E-005,0,0,15061,67,66,95,Sunderbans,,,Bangladesh,,South Asia,1,2,Asia,7190
+9673,9387,49.724,Deccan thorn scrub forests,IM,13,1,41301,243,1,,0,0,0,IM1301,0,0,0,336347,68,67,97,,,,India,,South Asia,1,2,Asia,9251
+9689,9404,37.614,North Western Ghats moist deciduous forests,IM,1,34,40134,245,1,,0,0,0,IM0134,0,0,0,48044,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,7053
+9708,9423,32.159,Central Deccan Plateau dry deciduous forests,IM,2,1,40201,78,1,,0,0,0,IM0201,0,0,0,239409,68,67,97,,,,India,,South Asia,1,2,Asia,24987
+9731,9446,34.097,Myanmar coastal rain forests,IM,1,32,40132,73,2,,0,0,0,IM0132,1.9741020831,0,0,50702,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,1375
+9740,9455,30.979,Kayah-Karen montane rain forests,IM,1,19,40119,70,3,Kayah-Karen/Tenasserim moist forests,29,1,2,IM0119,7.6792938719,0,0,119158,86,85,122,,,,Thailand,,Greater Mekong,1,2,Asia,7270
+9809,9525,26.246,Northern Thailand-Laos moist deciduous forests,IM,1,39,40139,221,2,,0,0,0,IM0139,2.6723685397,0,0,42010,79,78,110,,,,Laos,,Greater Mekong,1,2,Asia,175
+9846,9601,13.631,Northern Annamites rain forests,IM,1,36,40136,70,3,Annamite Range moist forests,25,1,2,IM0136,2.8666754607,0,0,47053,80,79,111,,,,Laos,,Greater Mekong,1,2,Asia,11141
+9876,9631,0.488,Myanmar Coast mangroves,IM,14,4,41404,119,1,,0,0,0,IM1404,0.0959325105,0,0,80,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,44
+9877,9632,28.392,Malabar Coast moist forests,IM,1,24,40124,71,1,,0,0,0,IM0124,0,0,0,30935,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,2901
+9943,11137,2.848,Peninsular Malaysian peat swamp forests,IM,1,45,40145,351,1,,0,0,0,IM0145,0,0,0,1818,101,100,140,,,,Malaysia,,,1,2,Asia,85
+9962,9642,53.298,Central Indochina dry forests,IM,2,2,40202,384,2,Indochina dry forests,54,2,1,IM0202,11.1746033127,0,0,208799,76,75,107,,,,Cambodia,,Greater Mekong,1,2,Asia,6445
+9962,9642,53.298,Central Indochina dry forests,IM,2,2,40202,384,2,Indochina dry forests,54,2,1,IM0202,11.1746033127,0,0,208799,77,76,108,,,,Cambodia,,Greater Mekong,1,2,Asia,1213
+9963,9643,0.227,Myanmar Coast mangroves,IM,14,4,41404,119,1,,0,0,0,IM1404,0.0959325105,0,0,37,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,28
+10025,9705,31.772,Tenasserim-South Thailand semi-evergreen rain forests,IM,1,63,40163,70,3,Kayah-Karen/Tenasserim moist forests,29,1,2,IM0163,2.611114481,0,0,94135,87,86,123,,,,Thailand,,Greater Mekong,1,2,Asia,3360
+10090,9831,27.57,Central Indochina dry forests,IM,2,2,40202,384,2,Indochina dry forests,54,2,1,IM0202,11.1746033127,0,0,36785,75,74,106,,,,Thailand,,Greater Mekong,1,2,Asia,145
+10121,9862,19.941,Cardamom Mountains rain forests,IM,1,6,40106,272,3,Cardamom Mountains moist forests,35,1,3,IM0106,2.6683465563,0,0,43015,78,77,109,,,,Cambodia,,Greater Mekong,1,2,Asia,645
+10144,9885,5.371,Chao Phraya lowland moist deciduous forests,IM,1,8,40108,221,1,,0,0,0,IM0108,0.849913343,0,0,4293,87,86,123,,,,Thailand,,Greater Mekong,1,2,Asia,74
+10191,9932,12.529,South Western Ghats montane rain forests,IM,1,51,40151,74,1,Southwestern Ghats moist forest,20,1,1,IM0151,0,0,0,22545,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,20353
+10193,9934,23.215,South Western Ghats moist deciduous forests,IM,1,50,40150,73,1,Southwestern Ghats moist forest,20,1,1,IM0150,0,0,0,23676,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,16154
+10203,9944,9.063,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,12693,104,103,145,,,,Philippines,,,1,2,Asia,12015
+10208,9949,4.405,Greater Negros-Panay rain forests,IM,1,14,40114,71,1,Philippines moist forests,27,1,1,IM0114,0,0,0,3245,104,103,145,,,,Philippines,,,1,2,Asia,26
+10312,10055,0.858,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,502,104,103,145,,,,Philippines,,,1,2,Asia,495
+10326,10069,6.906,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,7257,104,103,145,,,,Philippines,,,1,2,Asia,7002
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,22,22,24,Rey Bouba,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,498
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,23,23,25,Mayo-Bidjou,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,567
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,24,24,26,Campement des Rh,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,418
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,25,25,27,Mayo-Nduele,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1145
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,26,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,634
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,27,27,29,Mayo-Oldiri-Nord,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,124
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,28,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,733
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,29,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2086
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,30,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,726
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,52,52,67,Central African Republic,,,Central African Republic,WCS areas of work,Sudano-Sahel,0,1,Africa,98897
+10346,10282,0.117,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,11,104,103,145,,,,Philippines,,,1,2,Asia,1
+10361,11173,33.543,Victoria Basin forest-savanna mosaic,AT,7,21,30721,245,1,,0,0,0,AT0721,0,0,0,153788,109,108,0,,,,,,,0,1,Africa,1076
+10371,11183,3.403,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,1758,99,98,138,,,,Indonesia,,,1,2,Asia,1575
+10434,10137,4.903,Greater Negros-Panay rain forests,IM,1,14,40114,71,1,Philippines moist forests,27,1,1,IM0114,0,0,0,4446,104,103,145,,,,Philippines,,,1,2,Asia,4134
+10454,10159,1.29,Indochina mangroves,IM,14,2,41402,119,1,,0,0,0,IM1402,0.2826548923,0,0,309,78,77,109,,,,Cambodia,,Greater Mekong,1,2,Asia,113
+10477,10184,6.111,Greater Negros-Panay rain forests,IM,1,14,40114,71,1,Philippines moist forests,27,1,1,IM0114,0,0,0,12821,104,103,145,,,,Philippines,,,1,2,Asia,350
+10493,10215,0.503,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,104,104,103,145,,,,Philippines,,,1,2,Asia,103
+10529,10269,3.125,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,3875,104,103,145,,,,Philippines,,,1,2,Asia,3738
+10540,10297,51.405,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,75831,104,103,145,,,,Philippines,,,1,2,Asia,42685
+10569,10344,2.06,Mindanao montane rain forests,IM,1,28,40128,68,1,Philippines moist forests,27,1,1,IM0128,0,0,0,890,104,103,145,,,,Philippines,,,1,2,Asia,890
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,16,16,18,Mbam et Djerem,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,3862
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,18,18,20,Ituri,,,DRC,WCS areas of work,Central Africa,0,1,Africa,1875
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,24,24,26,Campement des Rh,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,19
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,25,25,27,Mayo-Nduele,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,48
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,27,27,29,Mayo-Oldiri-Nord,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,918
+10592,10384,90.426,Northern Congolian forest-savanna mosaic,AT,7,12,30712,73,1,,0,0,0,AT0712,0,0,0,705006,48,48,63,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,400
+10602,10395,9.797,Mindanao montane rain forests,IM,1,28,40128,68,1,Philippines moist forests,27,1,1,IM0128,0,0,0,10337,104,103,145,,,,Philippines,,,1,2,Asia,10001
+10665,10458,0.835,Mindanao montane rain forests,IM,1,28,40128,68,1,Philippines moist forests,27,1,1,IM0128,0,0,0,566,104,103,145,,,,Philippines,,,1,2,Asia,566
+10687,10494,61.656,Northwestern Congolian lowland forests,AT,1,26,30126,70,2,Western Congo Basin moist forests,6,1,2,AT0126,0,0,0,432190,16,16,18,Mbam et Djerem,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,433
+10687,10494,61.656,Northwestern Congolian lowland forests,AT,1,26,30126,70,2,Western Congo Basin moist forests,6,1,2,AT0126,0,0,0,432190,21,21,23,Ndoki-Likouala,,,Congo,WCS areas of work,Central Africa,0,1,Africa,19088
+10687,10494,61.656,Northwestern Congolian lowland forests,AT,1,26,30126,70,2,Western Congo Basin moist forests,6,1,2,AT0126,0,0,0,432190,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,100269
+10745,10552,62.084,Northern Acacia-Commiphora bushlands and thickets,AT,7,11,30711,107,1,East African Acacia Savannas,87,7,2,AT0711,0,0,0,314153,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,2498
+10746,10553,0.644,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,129,99,98,138,,,,Indonesia,,,1,2,Asia,117
+10855,10678,2.771,Mindanao montane rain forests,IM,1,28,40128,68,1,Philippines moist forests,27,1,1,IM0128,0,0,0,2589,104,103,145,,,,Philippines,,,1,2,Asia,2589
+10913,10753,0.748,Mindanao-Eastern Visayas rain forests,IM,1,29,40129,245,1,Philippines moist forests,27,1,1,IM0129,0,0,0,252,104,103,145,,,,Philippines,,,1,2,Asia,234
+10937,10777,149.911,Borneo lowland rain forests,IM,1,2,40102,221,1,Borneo lowland and montane forests,31,1,1,IM0102,0,0,0,419136,102,101,143,,,,Malaysia,,,1,2,Asia,4083
+10955,10795,4.723,Victoria Basin forest-savanna mosaic,AT,7,21,30721,245,1,,0,0,0,AT0721,0,0,0,10287,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,1741
+10957,10797,45.294,Peninsular Malaysian rain forests,IM,1,46,40146,245,2,Peninsular Malaysia lowland and montane forests,30,1,2,IM0146,0,0,0,117979,101,100,140,,,,Malaysia,,,1,2,Asia,7136
+10975,10815,9.889,Cameroonian Highlands forests,AT,1,3,30103,61,1,Cameroon Highlands forests,3,1,1,AT0103,0,0,0,17887,31,31,33,Cross River,,,"Nigeria, Cameroon",WCS areas of work,Central Africa,0,1,Africa,27
+10981,10821,16.28,Cross-Sanaga-Bioko coastal forests,AT,1,7,30107,68,1,Congolian Coastal Forests,2,1,1,AT0107,0,0,0,50024,31,31,33,Cross River,,,"Nigeria, Cameroon",WCS areas of work,Central Africa,0,1,Africa,5284
+10981,10821,16.28,Cross-Sanaga-Bioko coastal forests,AT,1,7,30107,68,1,Congolian Coastal Forests,2,1,1,AT0107,0,0,0,50024,32,32,34,Takamanda,,,Nigeria,WCS areas of work,Central Africa,0,1,Africa,3463
+11021,10861,44.763,Northeastern Congolian lowland forests,AT,1,24,30124,61,2,Northeastern Congo Basin moist forests,4,1,2,AT0124,0,0,0,531067,15,15,17,Kahuzi-Biega,,,DRC,WCS areas of work,Central Africa,0,1,Africa,6098
+11021,10861,44.763,Northeastern Congolian lowland forests,AT,1,24,30124,61,2,Northeastern Congo Basin moist forests,4,1,2,AT0124,0,0,0,531067,17,17,19,Oku Reserve,,,DRC,WCS areas of work,Central Africa,0,1,Africa,3525
+11021,10861,44.763,Northeastern Congolian lowland forests,AT,1,24,30124,61,2,Northeastern Congo Basin moist forests,4,1,2,AT0124,0,0,0,531067,18,18,20,Ituri,,,DRC,WCS areas of work,Central Africa,0,1,Africa,71102
+11064,10934,0.956,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,363,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,354
+11101,11478,1.686,Central African mangroves,AT,14,1,31401,119,1,Gulf of Guinea Mangroves,135,14,1,AT1401,0,0,0,1172,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,1165
+11108,11485,0.246,Central African mangroves,AT,14,1,31401,119,1,Gulf of Guinea Mangroves,135,14,1,AT1401,0,0,0,38,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,38
+11132,11856,2.88,Admiralty Islands lowland rain forests,AA,1,1,10101,272,1,,0,0,0,AA0101,0,0,0,1874,71,70,101,Manus Great Central Forest,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,1562
+11144,11868,47.477,Southern Congolian forest-savanna mosaic,AT,7,18,30718,75,2,,0,0,0,AT0718,0,0,0,567187,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,10
+11195,10976,113.303,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,243772,99,98,138,,,,Indonesia,,,1,2,Asia,45
+11195,10976,113.303,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,243772,100,99,139,,,,Indonesia,,,1,2,Asia,14270
+11195,10976,113.303,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,243772,103,102,144,,,,Indonesia,,,1,2,Asia,23211
+11211,11021,1.224,Sumatran tropical pine forests,IM,3,4,40304,60,2,Sumatran Islands lowland and montane forests,26,1,1,IM0304,0,0,0,637,103,102,144,,,,Indonesia,,,1,2,Asia,0
+11301,11088,35.027,Atlantic Equatorial coastal forests,AT,1,2,30102,71,2,Congolian Coastal Forests,2,1,1,AT0102,0,0,0,188821,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,110961
+11319,11676,0.868,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,412,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,406
+11528,11241,0.922,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,209,99,98,138,,,,Indonesia,,,1,2,Asia,192
+11590,12912,38.795,Madagascar lowland forests,AT,1,17,30117,272,1,Madagascar Forests and Shrublands,10,1,1,AT0117,0,0,0,111582,62,61,88,,,,Madagascar,,East Africa and West Indian Ocean,0,1,Africa,11638
+11736,11304,102.722,Sulawesi lowland rain forests,AA,1,23,10123,73,3,Sulawesi moist forests,12,1,1,AA0123,0,0,0,94077,105,104,146,,,,Indonesia,,,1,2,Asia,8471
+11750,11318,27.457,Albertine Rift montane forests,AT,1,1,30101,65,1,Albertine Rift Montane Forests,7,1,1,AT0101,0,0,0,83489,15,15,17,Kahuzi-Biega,,,DRC,WCS areas of work,Central Africa,0,1,Africa,593
+11750,11318,27.457,Albertine Rift montane forests,AT,1,1,30101,65,1,Albertine Rift Montane Forests,7,1,1,AT0101,0,0,0,83489,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,2656
+11766,11334,7.524,Sulawesi montane rain forests,AA,1,24,10124,76,3,Sulawesi moist forests,12,1,1,AA0124,0,0,0,4707,105,104,146,,,,Indonesia,,,1,2,Asia,4548
+11776,11344,6.964,Sundaland heath forests,IM,1,61,40161,78,2,,0,0,0,IM0161,0,0,0,3553,102,101,143,,,,Malaysia,,,1,2,Asia,233
+11778,11346,19.803,Sumatran montane rain forests,IM,1,59,40159,74,3,Sumatran Islands lowland and montane forests,26,1,1,IM0159,0,0,0,28121,100,99,139,,,,Indonesia,,,1,2,Asia,3
+11779,11347,4.012,Central African mangroves,AT,14,1,31401,119,1,Gulf of Guinea Mangroves,135,14,1,AT1401,0,0,0,3501,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,2469
+11796,11364,0.384,Sulawesi montane rain forests,AA,1,24,10124,76,3,Sulawesi moist forests,12,1,1,AA0124,0,0,0,118,105,104,146,,,,Indonesia,,,1,2,Asia,118
+11968,11501,2.725,Western Congolian forest-savanna mosaic,AT,7,23,30723,90,1,,0,0,0,AT0723,0,0,0,4529,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,4529
+12039,11588,3.263,Central African mangroves,AT,14,1,31401,119,1,Gulf of Guinea Mangroves,135,14,1,AT1401,0,0,0,1419,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,1148
+12129,11695,5.4,Sumatran freshwater swamp forests,IM,1,57,40157,351,1,,0,0,0,IM0157,0,0,0,2337,100,99,139,,,,Indonesia,,,1,2,Asia,652
+12213,13382,4.975,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,5884,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,4079
+12267,11871,160.47,Central Zambezian Miombo woodlands,AT,7,4,30704,98,2,Central and Eastern Miombo woodlands,88,7,2,AT0704,0,0,0,1178711,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,6229
+12267,11871,160.47,Central Zambezian Miombo woodlands,AT,7,4,30704,98,2,Central and Eastern Miombo woodlands,88,7,2,AT0704,0,0,0,1178711,60,59,86,Ruaha-Katavi,,,Tanzania,,East Africa and West Indian Ocean,0,1,Africa,58830
+12306,11910,1.562,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,1216,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,1183
+12315,11935,11.533,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,5043,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,936
+12330,11950,0.079,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,4,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,1
+12355,11975,53.206,Central Range montane rain forests,AA,1,5,10105,72,3,New Guinea montane forests,15,1,3,AA0105,0,0,0,171230,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,7148
+12357,11977,0.565,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,102,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,81
+12365,11985,0.117,New Britain-New Ireland lowland rain forests,AA,1,11,10111,73,1,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0111,0,0,0,9,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,9
+12379,11999,26.115,Southern Acacia-Commiphora bushlands and thickets,AT,7,16,30716,104,1,East African Acacia Savannas,87,7,2,AT0716,0,0,0,128604,60,59,86,Ruaha-Katavi,,,Tanzania,,East Africa and West Indian Ocean,0,1,Africa,12470
+12404,12024,15.714,Lake,AT,98,0,-9998,400,0,,-9998,0,0,Lake,0,0,0,32747,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,49
+12474,13309,0.052,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,2,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,0
+12491,13454,0.231,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,10,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,2
+12561,12069,9.059,Sumatran montane rain forests,IM,1,59,40159,74,3,Sumatran Islands lowland and montane forests,26,1,1,IM0159,0,0,0,11184,100,99,139,,,,Indonesia,,,1,2,Asia,9528
+12657,12227,76.499,Eastern Miombo woodlands,AT,7,6,30706,407,3,Central and Eastern Miombo woodlands,88,7,2,AT0706,0,0,0,482013,61,60,87,,,,Mozambique,,East Africa and West Indian Ocean,0,1,Africa,40926
+12686,12256,0.609,Central Range sub-alpine grasslands,AA,10,2,11002,111,3,Central Range subalpine grasslands,106,10,3,AA1002,0,0,0,255,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,255
+12722,12292,1.172,Central Range sub-alpine grasslands,AA,10,2,11002,111,3,Central Range subalpine grasslands,106,10,3,AA1002,0,0,0,616,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,16
+12867,12500,0.887,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,682,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,680
+12882,12515,2.756,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,2020,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,1978
+12904,12537,0.379,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,72,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,0
+12941,12574,1.04,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,533,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,532
+12962,12595,0.504,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,128,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,126
+12980,12632,1.108,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,349,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,324
+12981,12633,0.504,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,123,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,123
+13006,12658,3.318,Solomon Islands rain forests,AA,1,19,10119,74,2,Solomons-Vanuatu-Bismarck moist forests,16,1,2,AA0119,0,0,0,5345,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,17
+13180,12897,69.054,Madagascar subhumid forests,AT,1,18,30118,71,1,Madagascar Forests and Shrublands,10,1,1,AT0118,0,0,0,194184,62,61,88,,,,Madagascar,,East Africa and West Indian Ocean,0,1,Africa,504
+13437,13194,6.954,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,3196,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,1191
+13530,13356,0.072,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,2,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,1
+13534,13360,4.705,Fiji tropical dry forests,OC,2,1,70201,243,1,Southern Pacific Islands forests,49,1,1,OC0201,0,0,0,4564,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,1509
+13575,13413,0.377,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,104,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,101
+13600,13438,0.029,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,1,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,1
+13601,13439,0.6,Fiji tropical moist forests,OC,1,5,70105,70,1,Southern Pacific Islands forests,49,1,1,OC0105,0,0,0,137,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,134
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,118,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,1049
+3190,2640,97.903,Arctic foothills tundra,NA,11,4,51104,46,3,Alaskan North Slope coastal tundra,113,11,3,NA1104,0,0,0,129978,119,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,1049
+4779,5647,23.529,Beringia upland tundra,NA,11,7,51107,23,3,,0,0,0,NA1107,0,0,0,50438,116,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+4779,5647,23.529,Beringia upland tundra,NA,11,7,51107,23,3,,0,0,0,NA1107,0,0,0,50438,117,8,10,Togiak NWR,n,23,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,110,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,111,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,112,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,113,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,118,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,16
+4951,4377,87.437,Brooks-British Range tundra,NA,11,8,51108,55,3,,0,0,0,NA1108,0,0,0,160646,119,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,16
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,114,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+5073,4516,211.292,Interior Alaska-Yukon lowland taiga,NA,6,7,50607,76,3,,0,0,0,NA0607,0,0,0,446258,115,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+7545,7029,70.207,Northern short grasslands,NA,8,11,50811,84,1,Northern Prairies,94,8,1,NA0811,0,0,0,640109,138,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,1
+7545,7029,70.207,Northern short grasslands,NA,8,11,50811,84,1,Northern Prairies,94,8,1,NA0811,0,0,0,640109,139,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,1
+9254,8885,12.603,Northern Triangle temperate forests,IM,4,2,40402,267,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0402,0.3269146176,0,0,10709,136,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,4
+9254,8885,12.603,Northern Triangle temperate forests,IM,4,2,40402,267,3,Eastern Himalayan broadleaf and conifer forests,67,4,2,IM0402,0.3269146176,0,0,10709,137,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,4
+9314,8959,15.925,Northern Triangle subtropical forests,IM,1,40,40140,71,3,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0140,3.176581858,0,0,53774,136,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,1
+9314,8959,15.925,Northern Triangle subtropical forests,IM,1,40,40140,71,3,Naga-Manapuri-Chin Hills moist forests,34,1,2,IM0140,3.176581858,0,0,53774,137,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,1
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,122,23,25,Mayo-Bidjou,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,123,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,124,25,27,Mayo-Nduele,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,125,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,126,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,0
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,127,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,0
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,128,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,129,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,130,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,131,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,132,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,133,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,2
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,134,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,18
+10329,10073,56.304,East Sudanian savanna,AT,7,5,30705,407,1,Sudanian savannas,89,7,1,AT0705,0,0,0,632197,135,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,18
+11021,10861,44.763,Northeastern Congolian lowland forests,AT,1,24,30124,61,2,Northeastern Congo Basin moist forests,4,1,2,AT0124,0,0,0,531067,120,15,17,Kahuzi-Biega,,,DRC,WCS areas of work,Central Africa,0,1,Africa,40
+11021,10861,44.763,Northeastern Congolian lowland forests,AT,1,24,30124,61,2,Northeastern Congo Basin moist forests,4,1,2,AT0124,0,0,0,531067,121,17,19,Oku Reserve,,,DRC,WCS areas of work,Central Africa,0,1,Africa,40
+11195,10976,113.303,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,243772,140,98,138,,,,Indonesia,,,1,2,Asia,7
+11195,10976,113.303,Sumatran lowland rain forests,IM,1,58,40158,73,1,Sumatran Islands lowland and montane forests,26,1,1,IM0158,0,0,0,243772,141,102,144,,,,Indonesia,,,1,2,Asia,7

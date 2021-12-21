@@ -256,7 +256,6 @@ strong_www_g200_terr <- read_csv("strong_www_g200_terr_table.csv") %>%
   summarise(sq_km = sum(sq_km)) %>% 
   mutate(sum_sq_km = sum(sq_km))
 
-
 #www
 www_g200_terr <- read_csv("www_g200_terr_table.csv") %>% 
   clean_names() %>%
@@ -265,6 +264,187 @@ www_g200_terr <- read_csv("www_g200_terr_table.csv") %>%
   summarise(sq_km = sum(sq_km)) %>% 
   mutate(sum_sq_km = sum(sq_km))
 
+```
+
+Biomes
+```{r}
+
+#global biomes
+wwf_biomes <- read_csv("wwf_biomes.csv") %>% 
+  clean_names() %>% 
+  select(-area) %>% 
+  mutate(strong_poly = strong_biomes_poly$total_strong) %>% 
+  mutate(strong_km = strong_biomes_km$strong_km) %>%
+  mutate(strong_perc = strong_km/sq_km) %>% 
+  mutate(strong_www_poly = strong_www_biomes_poly$total_strong_www) %>% 
+  mutate(strong_www_km = strong_www_biomes_km$strong_www_km) %>%
+  mutate(strong_www_perc = strong_www_km/sq_km) %>%
+  mutate(www_poly = www_biomes_poly$total_www) %>% 
+  mutate(www_km = www_biomes_km$www_km) %>%
+  mutate(www_perc = www_km/sq_km)
+
+#strongholds
+strong_biomes <- read_csv("strong_biomes.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1)
+
+strong_biomes_poly <- strong_biomes %>% 
+  group_by(name) %>% 
+  summarise(total_strong = sum(count))
+
+strong_biomes_km <- strong_biomes %>% 
+  group_by(name) %>% 
+  summarise(strong_km = sum(sq_km))
+
+#strongholds with WWW
+strong_www_biomes <- read_csv("strong_www_biomes.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1)
+
+strong_www_biomes_poly <- strong_www_biomes %>% 
+  group_by(name) %>% 
+  summarise(total_strong_www = sum(count))
+
+strong_www_biomes_km <- strong_www_biomes %>% 
+  group_by(name) %>% 
+  summarise(strong_www_km = sum(sq_km))
+
+#www
+www_biomes <- read_csv("www_biomes.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1)
+
+www_biomes_poly <- www_biomes %>% 
+  group_by(name) %>% 
+  summarise(total_www = sum(count))
+
+www_biomes_km <- www_biomes %>% 
+  group_by(name) %>% 
+  summarise(www_km = sum(sq_km))
+
+
+
+```
+
+Realms
+```{r}
+
+#global realms
+wwf_realms <- read_csv("wwf_realms.csv") %>% 
+  clean_names() %>% 
+  na.omit() %>% 
+  mutate(strong_poly = strong_realms_poly$total_strong) %>% 
+  mutate(strong_km = strong_realms_km$strong_km) %>%
+  mutate(strong_perc = strong_km/sq_km) %>% 
+  mutate(strong_www_poly = strong_www_realms_poly$total_strong_www) %>% 
+  mutate(strong_www_km = strong_www_realms_km$strong_www_km) %>%
+  mutate(strong_www_perc = strong_www_km/sq_km) %>%
+  mutate(www_poly = www_realms_poly$total_www) %>% 
+  mutate(www_km = www_realms_km$www_km) %>%
+  mutate(www_perc = www_km/sq_km)
+
+#strongholds
+strong_realms <- read_csv("strong_realms.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1) %>% 
+  rename(sq_km = sq_km_16)
+
+strong_realms_poly <- strong_realms %>% 
+  group_by(realm) %>% 
+  summarise(total_strong = sum(count))
+
+strong_realms_km <- strong_realms %>% 
+  group_by(realm) %>% 
+  summarise(strong_km = sum(sq_km))
+
+#strongholds with WWW
+strong_www_realms <- read_csv("strong_www_realms.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1) %>% 
+  rename(sq_km = sq_km_16)
+
+strong_www_realms_poly <- strong_www_realms %>% 
+  group_by(realm) %>% 
+  summarise(total_strong_www = sum(count))
+
+strong_www_realms_km <- strong_www_realms %>% 
+  group_by(realm) %>% 
+  summarise(strong_www_km = sum(sq_km))
+
+#www
+www_realms <- read_csv("www_realms.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1) %>% 
+  rename(realm = realm_c_3)
+
+www_realms_poly <- www_realms %>% 
+  group_by(realm) %>% 
+  summarise(total_www = sum(count))
+
+www_realms_km <- www_realms %>% 
+  group_by(realm) %>% 
+  summarise(www_km = sum(sq_km))
+
+
+```
+
+Ecoregions
+```{r}
+
+#global ecoregions
+wwf_terr_eco <- read_csv("wwf_terr_eco.csv") %>% 
+  clean_names() %>% 
+  group_by(eco_name) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(strong_poly = strong_terr_eco_poly$total_strong) %>% 
+  mutate(strong_km = strong_terr_eco_km$strong_km) %>%
+  mutate(strong_perc = strong_km/sq_km) %>% 
+  mutate(strong_www_poly = strong_www_terr_eco_poly$total_strong_www) %>% 
+  mutate(strong_www_km = strong_www_terr_eco_km$strong_www_km) %>%
+  mutate(strong_www_perc = strong_www_km/sq_km) %>%
+  mutate(www_poly = www_terr_eco_poly$total_www) %>% 
+  mutate(www_km = www_terr_eco_km$www_km) %>%
+  mutate(www_perc = www_km/sq_km)
+
+#strongholds
+strong_terr_eco <- read_csv("strong_terr_eco.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1)
+
+strong_terr_eco_poly <- strong_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(total_strong = sum(count))
+
+strong_terr_eco_km <- strong_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(strong_km = sum(sq_km))
+
+#strongholds with WWW
+strong_www_terr_eco <- read_csv("strong_www_terr_eco.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1)
+
+strong_www_terr_eco_poly <- strong_www_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(total_strong_www = sum(count))
+
+strong_www_terr_eco_km <- strong_www_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(strong_www_km = sum(sq_km))
+
+#www
+www_terr_eco <- read_csv("www_terr_eco.csv") %>% 
+  clean_names() %>% 
+  mutate(count = 1) %>% 
+  rename(sq_km = sq_km_32)
+
+www_terr_eco_poly <- www_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(total_www = sum(count))
+
+www_terr_eco_km <- www_terr_eco %>% 
+  group_by(eco_name) %>% 
+  summarise(www_km = sum(sq_km))
 
 ```
 

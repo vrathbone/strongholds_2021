@@ -1,0 +1,207 @@
+FID_wwf_bi,BIOME,biome2,name,area,FID_strong,OBJECTID,SCAPENAME,PROGRAM,COUNTRY,TYPE,INTACTWILD,HIGHIMPORT,Name_1,Region,WCS_SH,Reason,sq_km
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Terrestrial,6,Y,Greater Virunga,Central Africa,1,,13222
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,1,3,Greater Mbam Djerem,Africa,Cameroon,Terrestrial,7,Y,Mbam-Mpim-Dengdeng,Central Africa,1,,15678
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,2,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,125
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,3,6,Greater Cross River,Africa,"Cameroon, Nigeria",Terrestrial,4,N,Cross River-Takamanda,Central Africa,1,,23675
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,42161
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,5,11,Oku-Kahuzi-Kabobo,Africa,DRC,Terrestrial,5,Y,Eastern DRC,Central Africa,1,,158614
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,6,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,389675
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,7,14,Guinea-Congo-Sudanian Transition,Africa,Multiple,Terrestrial,5,Y,Guinea-Congo-Sudanian transition,Central Africa,1,,4766
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,54600
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,91517
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,12,24,,,Colombia,,0,,Orinoqu├¡a,AAO,1,,355
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,13,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,48802
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,15,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,21485
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,17,50,,,"Mexico, Belize",,0,,Maya Forest and Coast,Mesoamerica,1,,107268
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,18,51,,,"Honduras, Nicaragua",,0,,,Mesoamerica,1,,45403
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,19,52,,,"Nicaragua, Costa Rica",,0,,,Mesoamerica,1,,10321
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,20,53,,,"Cost Rica, Panama",,0,,,Mesoamerica,1,,36908
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,9043
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,22,62,Greater Ruaha Katavi,,Tanzania,,0,,Ruaha-Katavi,East Africa West Indian Ocean,1,,1144
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,23,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",24058
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,24,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",103407
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,29,80,,,India,,0,,,South Asia,1,,130156
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,31,84,,,Bangladesh,,0,,Sunderbans,South Asia,1,,1181
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,337261
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,33,91,,,"Cambodia, Thailand",,0,,,Greater Mekong,1,,1010
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,34,92,,,Cambodia,,0,,,Greater Mekong,1,,28017
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,35,93,,,Laos,,0,,,Greater Mekong,1,,94291
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,36,96,,,Myanmar,,0,,,Greater Mekong,1,,54239
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,37,100,,,Myanmar y Thailand,,0,,,Greater Mekong,1,,111283
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,44,0,,,Malaysia,,0,,,,0,,62744
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,45,0,,,Philippines,,0,,,,0,,89304
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,46,0,,,Indonesia,,0,,,,0,,112715
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,47,0,,,Indonesia,,0,,,,0,,197568
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,48,0,,,Indonesia,,0,,,,0,,166043
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,49,0,,,Malaysia,,0,,,,0,,19686
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,50,0,,,Malaysia,,0,,,,0,,2569
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,58,0,,,,,0,,,,0,,487736
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,59,0,,,,,0,,,,0,,3124765
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,60,0,,,,,0,,,,0,,5730
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,62,0,Fiji,,,,0,,Fiji Stronghold,,1,,11150
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,63,0,Solomon Islands,,,,0,,Bismarck-Solomon,,1,,80826
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,12
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,10324
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,12,24,,,Colombia,,0,,Orinoqu├¡a,AAO,1,,3858
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,13,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,480
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,16,48,,,Cuba,,0,,,Mesoamerica,1,,369
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,17,50,,,"Mexico, Belize",,0,,Maya Forest and Coast,Mesoamerica,1,,12620
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,18,51,,,"Honduras, Nicaragua",,0,,,Mesoamerica,1,,2945
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,20,53,,,"Cost Rica, Panama",,0,,,Mesoamerica,1,,937
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,17
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,24,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",5753
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,29,80,,,India,,0,,,South Asia,1,,23245
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,30,82,,,India,,0,,,South Asia,1,,47807
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,1238
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,33,91,,,"Cambodia, Thailand",,0,,,Greater Mekong,1,,103577
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,34,92,,,Cambodia,,0,,,Greater Mekong,1,,2224
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,35,93,,,Laos,,0,,,Greater Mekong,1,,13642
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,37,100,,,Myanmar y Thailand,,0,,,Greater Mekong,1,,1170
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,59,0,,,,,0,,,,0,,19728
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,62,0,Fiji,,,,0,,Fiji Stronghold,,1,,5731
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,17,50,,,"Mexico, Belize",,0,,Maya Forest and Coast,Mesoamerica,1,,2812
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,18,51,,,"Honduras, Nicaragua",,0,,,Mesoamerica,1,,28422
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,9227
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,41211
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,41,0,,,USA,,0,,Greater Gila,,0,,57
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,43,0,,,USA y M├®xico,,0,,3,,0,,368
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,47,0,,,Indonesia,,0,,,,0,,2748
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,8,17,,,Canada,,0,,,Boreal,1,,1352
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,8478
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,27,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,426242
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,103230
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,61,0,,,,,0,,,,0,,325852
+4,5,5,Temperate_coniferous_forests,0,9,18,,,Canada,,0,,,Boreal,1,,21417
+4,5,5,Temperate_coniferous_forests,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,37529
+4,5,5,Temperate_coniferous_forests,0,27,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,5581
+4,5,5,Temperate_coniferous_forests,0,28,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,37245
+4,5,5,Temperate_coniferous_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,103529
+4,5,5,Temperate_coniferous_forests,0,38,0,,,USA y Canada,,0,,Crown of the Continent,,0,,27903
+4,5,5,Temperate_coniferous_forests,0,39,0,,,USA,,0,,Greater Yellowstone,,0,,50368
+4,5,5,Temperate_coniferous_forests,0,40,0,,,USA,,0,,Selmon-Selway Willderness,,0,,71282
+4,5,5,Temperate_coniferous_forests,0,41,0,,,USA,,0,,Greater Gila,,0,,68433
+4,5,5,Temperate_coniferous_forests,0,43,0,,,USA y M├®xico,,0,,3,,0,,51
+5,6,6,Boreal_forests_taiga,0,8,17,,,Canada,,0,,,Boreal,1,,790678
+5,6,6,Boreal_forests_taiga,0,9,18,,,Canada,,0,,,Boreal,1,,630218
+5,6,6,Boreal_forests_taiga,0,27,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,338236
+5,6,6,Boreal_forests_taiga,0,28,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,6
+5,6,6,Boreal_forests_taiga,0,54,0,,,USA,,0,,,Arctic Beringia,0,,21415
+5,6,6,Boreal_forests_taiga,0,55,0,,,Russian,,0,,,Arctic Beringia,0,,55
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Terrestrial,6,Y,Greater Virunga,Central Africa,1,,6623
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,1,3,Greater Mbam Djerem,Africa,Cameroon,Terrestrial,7,Y,Mbam-Mpim-Dengdeng,Central Africa,1,,22030
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,2,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,125
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,3,6,Greater Cross River,Africa,"Cameroon, Nigeria",Terrestrial,4,N,Cross River-Takamanda,Central Africa,1,,317
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,1922
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,5,11,Oku-Kahuzi-Kabobo,Africa,DRC,Terrestrial,5,Y,Eastern DRC,Central Africa,1,,32852
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,6,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,39666
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,7,14,Guinea-Congo-Sudanian Transition,Africa,Multiple,Terrestrial,5,Y,Guinea-Congo-Sudanian transition,Central Africa,1,,58762
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,12,24,,,Colombia,,0,,Orinoqu├¡a,AAO,1,,111046
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,14,40,Greater Zakouma-Bamingui-Manovo,,Chad y Central African Republic,,0,,Bamingui-Bangoran / Manovo-Gounda,Sudano-Sahel,1,,177873
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,15,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,135496
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,22,62,Greater Ruaha Katavi,,Tanzania,,0,,Ruaha-Katavi,East Africa West Indian Ocean,1,,154773
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,23,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",242037
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,6947
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,58,0,,,,,0,,,,0,,1797
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,59,0,,,,,0,,,,0,,120823
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,60,0,,,,,0,,,,0,,493799
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,135944
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,28,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,252792
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,38,0,,,USA y Canada,,0,,Crown of the Continent,,0,,12311
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,39,0,,,USA,,0,,Greater Yellowstone,,0,,321
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,40,0,,,USA,,0,,Selmon-Selway Willderness,,0,,3091
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,42,0,,,USA y Canada,,0,,Missouri Grasslands,,0,,57605
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,60,0,,,,,0,,,,0,,1401
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,61,0,,,,,0,,,,0,,723838
+8,9,9,Flooded_grasslands_and_savannas,0,15,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,116232
+8,9,9,Flooded_grasslands_and_savannas,0,16,48,,,Cuba,,0,,,Mesoamerica,1,,1761
+8,9,9,Flooded_grasslands_and_savannas,0,22,62,Greater Ruaha Katavi,,Tanzania,,0,,Ruaha-Katavi,East Africa West Indian Ocean,1,,3665
+8,9,9,Flooded_grasslands_and_savannas,0,23,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",7489
+8,9,9,Flooded_grasslands_and_savannas,0,27,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,45754
+9,10,10,Montane_grasslands_and_savannas,0,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Terrestrial,6,Y,Greater Virunga,Central Africa,1,,1521
+9,10,10,Montane_grasslands_and_savannas,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,217
+9,10,10,Montane_grasslands_and_savannas,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,3532
+9,10,10,Montane_grasslands_and_savannas,0,13,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,158
+9,10,10,Montane_grasslands_and_savannas,0,15,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,12902
+9,10,10,Montane_grasslands_and_savannas,0,22,62,Greater Ruaha Katavi,,Tanzania,,0,,Ruaha-Katavi,East Africa West Indian Ocean,1,,109
+9,10,10,Montane_grasslands_and_savannas,0,23,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",736
+9,10,10,Montane_grasslands_and_savannas,0,24,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",166
+9,10,10,Montane_grasslands_and_savannas,0,25,66,,Asia,China,J,0,,Changtang,Temperate Asia,1,"Political, Financial",719433
+9,10,10,Montane_grasslands_and_savannas,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,473714
+9,10,10,Montane_grasslands_and_savannas,0,28,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,3212
+9,10,10,Montane_grasslands_and_savannas,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,195340
+9,10,10,Montane_grasslands_and_savannas,0,58,0,,,,,0,,,,0,,14918
+9,10,10,Montane_grasslands_and_savannas,0,59,0,,,,,0,,,,0,,100433
+9,10,10,Montane_grasslands_and_savannas,0,61,0,,,,,0,,,,0,,30259
+10,11,11,Tundra,0,9,18,,,Canada,,0,,,Boreal,1,,506835
+10,11,11,Tundra,0,27,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,24010
+10,11,11,Tundra,0,54,0,,,USA,,0,,,Arctic Beringia,0,,114677
+10,11,11,Tundra,0,55,0,,,Russian,,0,,,Arctic Beringia,0,,109750
+11,12,12,Mediterranean_forests_woodlands_and_scrub,0,61,0,,,,,0,,,,0,,1213
+12,13,13,Deserts_and_xeric_shrublands,0,15,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,688
+12,13,13,Deserts_and_xeric_shrublands,0,24,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",4327
+12,13,13,Deserts_and_xeric_shrublands,0,25,66,,Asia,China,J,0,,Changtang,Temperate Asia,1,"Political, Financial",67139
+12,13,13,Deserts_and_xeric_shrublands,0,26,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,221549
+12,13,13,Deserts_and_xeric_shrublands,0,28,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,905304
+12,13,13,Deserts_and_xeric_shrublands,0,29,80,,,India,,0,,,South Asia,1,,3623
+12,13,13,Deserts_and_xeric_shrublands,0,30,82,,,India,,0,,,South Asia,1,,38683
+12,13,13,Deserts_and_xeric_shrublands,0,39,0,,,USA,,0,,Greater Yellowstone,,0,,21422
+12,13,13,Deserts_and_xeric_shrublands,0,40,0,,,USA,,0,,Selmon-Selway Willderness,,0,,38315
+12,13,13,Deserts_and_xeric_shrublands,0,41,0,,,USA,,0,,Greater Gila,,0,,33138
+12,13,13,Deserts_and_xeric_shrublands,0,43,0,,,USA y M├®xico,,0,,3,,0,,20044
+12,13,13,Deserts_and_xeric_shrublands,0,59,0,,,,,0,,,,0,,504
+13,14,14,Mangrove,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,5817
+13,14,14,Mangrove,0,6,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,306
+13,14,14,Mangrove,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,2037
+13,14,14,Mangrove,0,13,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,3918
+13,14,14,Mangrove,0,16,48,,,Cuba,,0,,,Mesoamerica,1,,1507
+13,14,14,Mangrove,0,17,50,,,"Mexico, Belize",,0,,Maya Forest and Coast,Mesoamerica,1,,7860
+13,14,14,Mangrove,0,18,51,,,"Honduras, Nicaragua",,0,,,Mesoamerica,1,,4681
+13,14,14,Mangrove,0,19,52,,,"Nicaragua, Costa Rica",,0,,,Mesoamerica,1,,672
+13,14,14,Mangrove,0,20,53,,,"Cost Rica, Panama",,0,,,Mesoamerica,1,,666
+13,14,14,Mangrove,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,344
+13,14,14,Mangrove,0,23,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",63
+13,14,14,Mangrove,0,24,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",1177
+13,14,14,Mangrove,0,30,82,,,India,,0,,,South Asia,1,,7
+13,14,14,Mangrove,0,31,84,,,Bangladesh,,0,,Sunderbans,South Asia,1,,9697
+13,14,14,Mangrove,0,34,92,,,Cambodia,,0,,,Greater Mekong,1,,599
+13,14,14,Mangrove,0,36,96,,,Myanmar,,0,,,Greater Mekong,1,,5488
+13,14,14,Mangrove,0,47,0,,,Indonesia,,0,,,,0,,450
+13,14,14,Mangrove,0,58,0,,,,,0,,,,0,,13859
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,2,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,3305
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,3305
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,8
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,6,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,8
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,30
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,30
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,20054
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,20054
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,1486
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,59,0,,,,,0,,,,0,,1486
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,32,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,116
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,36,96,,,Myanmar,,0,,,Greater Mekong,1,,116
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,44,0,,,Malaysia,,0,,,,0,,29171
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,50,0,,,Malaysia,,0,,,,0,,29171
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,92
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,92
+5,6,6,Boreal_forests_taiga,0,53,0,,,USA,,0,,,Arctic Beringia,0,,25605
+5,6,6,Boreal_forests_taiga,0,56,0,,,USA,,0,,,Arctic Beringia,0,,25605
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,2,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,1847
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,1847
+9,10,10,Montane_grasslands_and_savannas,0,11,23,,,Colombia,,0,,Central Andes,AAO,1,,101
+9,10,10,Montane_grasslands_and_savannas,0,59,0,,,,,0,,,,0,,101
+10,11,11,Tundra,0,51,0,,,Russian,,0,,,Arctic Beringia,0,,7600
+10,11,11,Tundra,0,57,0,,,Russian,,0,,,Arctic Beringia,0,,7600
+10,11,11,Tundra,0,52,0,,,Russian,,0,,,Arctic Beringia,0,,70157
+10,11,11,Tundra,0,55,0,,,Russian,,0,,,Arctic Beringia,0,,70157
+10,11,11,Tundra,0,53,0,,,USA,,0,,,Arctic Beringia,0,,327424
+10,11,11,Tundra,0,56,0,,,USA,,0,,,Arctic Beringia,0,,327424
+13,14,14,Mangrove,0,4,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,1
+13,14,14,Mangrove,0,6,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,1
+13,14,14,Mangrove,0,10,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,468
+13,14,14,Mangrove,0,21,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,468
+5,6,6,Boreal_forests_taiga,0,9,18,,,Canada,,0,,,Boreal,1,,3414
+5,6,6,Boreal_forests_taiga,0,53,0,,,USA,,0,,,Arctic Beringia,0,,3414
+5,6,6,Boreal_forests_taiga,0,56,0,,,USA,,0,,,Arctic Beringia,0,,3414
+10,11,11,Tundra,0,9,18,,,Canada,,0,,,Boreal,1,,12049
+10,11,11,Tundra,0,53,0,,,USA,,0,,,Arctic Beringia,0,,12049
+10,11,11,Tundra,0,56,0,,,USA,,0,,,Arctic Beringia,0,,12049

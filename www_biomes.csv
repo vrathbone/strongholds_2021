@@ -1,0 +1,223 @@
+FID_wwf_bi,BIOME,biome2,name,area,FID_www_in,FID_WWW_ed,OBJECTID,NAME_1,at_risk,Map_number,COUNTRY,TYPE,Region,FID_contin,FID_1,CONTINENT,sq_km
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,15,15,17,Kahuzi-Biega,,,DRC,WCS areas of work,Central Africa,0,1,Africa,6691
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,16,16,18,Mbam et Djerem,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,433
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,17,17,19,Oku Reserve,,,DRC,WCS areas of work,Central Africa,0,1,Africa,3525
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,18,18,20,Ituri,,,DRC,WCS areas of work,Central Africa,0,1,Africa,71102
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,2656
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,21,21,23,Ndoki-Likouala,,,Congo,WCS areas of work,Central Africa,0,1,Africa,34571
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,31,31,33,Cross River,,,"Nigeria, Cameroon",WCS areas of work,Central Africa,0,1,Africa,5311
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,32,32,34,Takamanda,,,Nigeria,WCS areas of work,Central Africa,0,1,Africa,3463
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,100988
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,44533
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,40,40,54,Mara├▒on Ucayali,,,Peru,WCS areas of work,AAO,5,6,South America,170495
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,355
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,42,42,56,Middle Magdalena Valley,,,Colombia,WCS areas of work,AAO,5,6,South America,17789
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,29987
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,23214
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,21515
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,46,46,61,Lower R├¡o Negro,,,Brazil,WCS areas of work,AAO,5,6,South America,75354
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,211231
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,39853
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,28380
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,18
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,36526
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,23126
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,5626
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,62,61,88,,,,Madagascar,,East Africa and West Indian Ocean,0,1,Africa,12141
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,66503
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,8307
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,71,70,101,Manus Great Central Forest,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,1562
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,72,71,102,New Ireland Seascape,,,Papua New Guinea,WCS areas of work,Melanesia,4,5,Oceania,2615
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,73,72,103,West-Central Solomons Land-Seascape,,,Solomon Islands,WCS areas of work,Melanesia,4,5,Oceania,4135
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,5509
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,78,77,109,,,,Cambodia,,Greater Mekong,1,2,Asia,645
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,79,78,110,,,,Laos,,Greater Mekong,1,2,Asia,6199
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,80,79,111,,,,Laos,,Greater Mekong,1,2,Asia,11141
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,4481
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,82,81,116,,,,Myanmar,,Greater Mekong,1,2,Asia,5183
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,24341
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,84,83,118,,,,Myanmar,,Greater Mekong,1,2,Asia,2309
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,680
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,86,85,122,,,,Thailand,,Greater Mekong,1,2,Asia,7516
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,87,86,123,,,,Thailand,,Greater Mekong,1,2,Asia,3434
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,99,98,138,,,,Indonesia,,,1,2,Asia,1928
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,100,99,139,,,,Indonesia,,,1,2,Asia,24453
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,101,100,140,,,,Malaysia,,,1,2,Asia,7221
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,102,101,143,,,,Malaysia,,,1,2,Asia,4316
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,103,102,144,,,,Indonesia,,,1,2,Asia,41625
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,104,103,145,,,,Philippines,,,1,2,Asia,86756
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,105,104,146,,,,Indonesia,,,1,2,Asia,13137
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,10297
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,108,107,0,,,,,,,3,4,North America,111
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,868
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,109
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,6382
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,11
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,5
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,365
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,937
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,99
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,68,67,97,,,,India,,South Asia,1,2,Asia,24987
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,69,68,99,Western Ghats,,,India,,South Asia,1,2,Asia,6167
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,74,73,105,Vatu-i-Ra Seascape,,,Fiji,WCS areas of work,Melanesia,4,5,Oceania,2325
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,75,74,106,,,,Thailand,,Greater Mekong,1,2,Asia,2012
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,76,75,107,,,,Cambodia,,Greater Mekong,1,2,Asia,8819
+1,2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,77,76,108,,,,Cambodia,,Greater Mekong,1,2,Asia,3971
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,876
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,8803
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,7
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,103,102,144,,,,Indonesia,,,1,2,Asia,894
+2,3,3,Tropical_and_subtropical_coniferous_forests,0,106,105,147,Greater Gila,,,USA,,,3,4,North America,57
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,5276
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,40277
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,3413
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,371695
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,83,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,3565
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,1985
+4,5,5,Temperate_coniferous_forests,0,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,412
+4,5,5,Temperate_coniferous_forests,0,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,248
+4,5,5,Temperate_coniferous_forests,0,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,43446
+4,5,5,Temperate_coniferous_forests,0,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,167529
+4,5,5,Temperate_coniferous_forests,0,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,58
+4,5,5,Temperate_coniferous_forests,0,106,105,147,Greater Gila,,,USA,,,3,4,North America,68433
+5,6,6,Boreal_forests_taiga,0,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,2492
+5,6,6,Boreal_forests_taiga,0,2,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,343
+5,6,6,Boreal_forests_taiga,0,3,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,4056
+5,6,6,Boreal_forests_taiga,0,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,10579
+5,6,6,Boreal_forests_taiga,0,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,4349
+5,6,6,Boreal_forests_taiga,0,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,13905
+5,6,6,Boreal_forests_taiga,0,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,94795
+5,6,6,Boreal_forests_taiga,0,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,326809
+5,6,6,Boreal_forests_taiga,0,89,88,125,,,,Canada,,Northern Boreal,3,4,North America,450934
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,16,16,18,Mbam et Djerem,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,3862
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,18,18,20,Ituri,,,DRC,WCS areas of work,Central Africa,0,1,Africa,1875
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,19,19,21,Kabobo,,,DRC,WCS areas of work,Central Africa,0,1,Africa,6239
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,20,20,22,Yankari,,,Nigeria,WCS areas of work,Central Africa,0,1,Africa,2761
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,22,22,24,Rey Bouba,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,498
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,23,23,25,Mayo-Bidjou,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,567
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,24,24,26,Campement des Rh,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,437
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,25,25,27,Mayo-Nduele,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1193
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,26,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,634
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,27,27,29,Mayo-Oldiri-Nord,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1042
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,28,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,733
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,29,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2086
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,30,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,726
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,36,36,44,Paraguayan Chaco,,,Paraguay,WCS areas of work,Patagonia,5,6,South America,27181
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,23966
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,41,41,55,Eastern Savannas of Arauca and Vichada,,,Colombia,WCS areas of work,AAO,5,6,South America,45255
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,46518
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,48,48,63,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,400
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,16157
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,50,50,65,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,586
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,51,51,66,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,2598
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,52,52,67,Central African Republic,,,Central African Republic,WCS areas of work,Sudano-Sahel,0,1,Africa,98897
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,60,59,86,Ruaha-Katavi,,,Tanzania,,East Africa and West Indian Ocean,0,1,Africa,71300
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,61,60,87,,,,Mozambique,,East Africa and West Indian Ocean,0,1,Africa,40926
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,109,108,0,,,,,,,0,1,Africa,1076
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,71303
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,34,34,38,Valdes,,,Argentina,WCS areas of work,Patagonia,5,6,South America,21620
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,35,35,40,Tierra del Fuego,,,Argentina-Chile,WCS areas of work,Patagonia,5,6,South America,14795
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,90,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,152146
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,49982
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,512
+8,9,9,Flooded_grasslands_and_savannas,0,48,48,63,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,1348
+8,9,9,Flooded_grasslands_and_savannas,0,49,49,64,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,3600
+8,9,9,Flooded_grasslands_and_savannas,0,50,50,65,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,8352
+8,9,9,Flooded_grasslands_and_savannas,0,51,51,66,South Sudan,,,South Sudan,WCS areas of work,Sudano-Sahel,0,1,Africa,5131
+8,9,9,Flooded_grasslands_and_savannas,0,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,1584
+8,9,9,Flooded_grasslands_and_savannas,0,66,65,94,Northeast Asia Tiger Stronghold,,,"Russia, China","WCS areas of work, F",Temperate Asia,1,2,Asia,45631
+9,10,10,Montane_grasslands_and_savannas,0,33,33,36,Payunia - Laguna Blanca,,,Argentina,WCS areas of work,Patagonia,5,6,South America,2028
+9,10,10,Montane_grasslands_and_savannas,0,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,5743
+9,10,10,Montane_grasslands_and_savannas,0,38,38,52,Madidi Tambopata,,,"Bolivia, Peru",WCS areas of work,AAO,5,6,South America,6947
+9,10,10,Montane_grasslands_and_savannas,0,39,39,53,Llanganates-Yasuni,,,Ecuador,WCS areas of work,AAO,5,6,South America,847
+9,10,10,Montane_grasslands_and_savannas,0,43,43,57,Western-Central Andes,,,Colombia,WCS areas of work,AAO,5,6,South America,3579
+9,10,10,Montane_grasslands_and_savannas,0,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,195
+9,10,10,Montane_grasslands_and_savannas,0,45,45,59,Andean-Amazon piedmont of Putumayo,,,Colombia,WCS areas of work,AAO,5,6,South America,301
+9,10,10,Montane_grasslands_and_savannas,0,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,946016
+9,10,10,Montane_grasslands_and_savannas,0,70,69,100,Bismarck Forest Corridor,,,Papua New Guinea,WCS areas of work,Melanesia,1,2,Asia,271
+9,10,10,Montane_grasslands_and_savannas,0,85,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,5393
+9,10,10,Montane_grasslands_and_savannas,0,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,388
+9,10,10,Montane_grasslands_and_savannas,0,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,9058
+9,10,10,Montane_grasslands_and_savannas,0,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,1219
+9,10,10,Montane_grasslands_and_savannas,0,95,94,131,SAIGHAN,,,Afghanistan,,,1,2,Asia,993
+9,10,10,Montane_grasslands_and_savannas,0,96,95,132,YAKAWLANG,,,Afghanistan,,,1,2,Asia,6086
+9,10,10,Montane_grasslands_and_savannas,0,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,2694
+9,10,10,Montane_grasslands_and_savannas,0,98,97,136,KAHMARD,,,Afghanistan,,,1,2,Asia,5
+10,11,11,Tundra,0,0,0,2,Cape Krusenstern,n,4,USA,WCS areas of work,Arctic Beringia,3,4,North America,2608
+10,11,11,Tundra,0,1,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,30949
+10,11,11,Tundra,0,2,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,26191
+10,11,11,Tundra,0,3,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,2907
+10,11,11,Tundra,0,4,4,6,Natural System of Wrangel Island Reserve,y,1,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,7546
+10,11,11,Tundra,0,5,5,7,Arctic,1002 area is,13,USA,WCS areas of work,Arctic Beringia,3,4,North America,69201
+10,11,11,Tundra,0,6,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,8114
+10,11,11,Tundra,0,7,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,78290
+10,11,11,Tundra,0,8,8,10,Togiak NWR,n,23,USA,WCS areas of work,Arctic Beringia,3,4,North America,18653
+10,11,11,Tundra,0,9,9,11,Beringia NP,y,2,Russia,WCS areas of work,Arctic Beringia,1,2,Asia,13502
+10,11,11,Tundra,0,10,10,12,Teshekpuk Lake,y,11,USA,WCS areas of work,Arctic Beringia,3,4,North America,14401
+10,11,11,Tundra,0,11,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,8822
+10,11,11,Tundra,0,12,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,27507
+10,11,11,Tundra,0,13,13,15,Peard Bay,y,10,USA,WCS areas of work,Arctic Beringia,3,4,North America,90
+10,11,11,Tundra,0,14,14,16,Kasegaluk,y,9,USA,WCS areas of work,Arctic Beringia,3,4,North America,145
+10,11,11,Tundra,0,88,87,124,,,,Canada,,Northern Boreal,3,4,North America,178979
+11,12,12,Mediterranean_forests_woodlands_and_scrub,0,37,37,49,Mediterraneo,,,Chile,WCS areas of work,Patagonia,5,6,South America,544
+12,13,13,Deserts_and_xeric_shrublands,0,63,62,89,Gobi,,,Mongolia,WCS areas of work,Temperate Asia,1,2,Asia,97653
+12,13,13,Deserts_and_xeric_shrublands,0,64,63,92,Saiga Range,,,Mongolia,"WCS areas of work, I",Temperate Asia,1,2,Asia,30049
+12,13,13,Deserts_and_xeric_shrublands,0,65,64,93,Changtang,,,China,"WCS areas of work, J",Temperate Asia,1,2,Asia,10111
+12,13,13,Deserts_and_xeric_shrublands,0,68,67,97,,,,India,,South Asia,1,2,Asia,9251
+12,13,13,Deserts_and_xeric_shrublands,0,91,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,55641
+12,13,13,Deserts_and_xeric_shrublands,0,92,91,128,ESHKASHIM,,,Afghanistan,,,1,2,Asia,669
+12,13,13,Deserts_and_xeric_shrublands,0,93,92,129,WAKHAN,,,Afghanistan,,,1,2,Asia,1294
+12,13,13,Deserts_and_xeric_shrublands,0,94,93,130,ZEBAK,,,Afghanistan,,,1,2,Asia,770
+12,13,13,Deserts_and_xeric_shrublands,0,95,94,131,SAIGHAN,,,Afghanistan,,,1,2,Asia,1116
+12,13,13,Deserts_and_xeric_shrublands,0,96,95,132,YAKAWLANG,,,Afghanistan,,,1,2,Asia,466
+12,13,13,Deserts_and_xeric_shrublands,0,97,96,133,PANJSHER,,,Afghanistan,,,1,2,Asia,884
+12,13,13,Deserts_and_xeric_shrublands,0,98,97,136,KAHMARD,,,Afghanistan,,,1,2,Asia,1433
+12,13,13,Deserts_and_xeric_shrublands,0,106,105,147,Greater Gila,,,USA,,,3,4,North America,33138
+13,14,14,Mangrove,0,44,44,58,Andes-Choco,,,Colombia,WCS areas of work,AAO,5,6,South America,1472
+13,14,14,Mangrove,0,47,47,62,Gabon,,,Gabon,Policy,Central Africa,0,1,Africa,4820
+13,14,14,Mangrove,0,53,53,68,Maya Forest,,,"Guatemala, Mexico, Belize",WCS areas of work,Mesoamerica,3,4,North America,6
+13,14,14,Mangrove,0,54,54,73,,,,Nicaragua,WCS areas of work,Mesoamerica,3,4,North America,1530
+13,14,14,Mangrove,0,55,55,76,,,,Cuba,WCS areas of work,Mesoamerica,3,4,North America,1324
+13,14,14,Mangrove,0,56,56,80,Meso Reef,,,Belize,WCS areas of work,Mesoamerica,3,4,North America,287
+13,14,14,Mangrove,0,57,57,81,,,,"Cost Rica, Panama",Partners work here,Mesoamerica,3,4,North America,477
+13,14,14,Mangrove,0,58,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,3,4,North America,267
+13,14,14,Mangrove,0,59,58,82,,,,"Panama, Colombia",Partners work here,Mesoamerica,5,6,South America,438
+13,14,14,Mangrove,0,67,66,95,Sunderbans,,,Bangladesh,,South Asia,1,2,Asia,7190
+13,14,14,Mangrove,0,78,77,109,,,,Cambodia,,Greater Mekong,1,2,Asia,113
+13,14,14,Mangrove,0,81,80,112,,,,Myanmar,,Greater Mekong,1,2,Asia,72
+13,14,14,Mangrove,0,107,106,52,,,,"Nicaragua, Costa Rica",,Mesoamerica,3,4,North America,639
+13,14,14,Mangrove,0,108,107,0,,,,,,,3,4,North America,201
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,120,15,17,Kahuzi-Biega,,,DRC,WCS areas of work,Central Africa,0,1,Africa,40
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,121,17,19,Oku Reserve,,,DRC,WCS areas of work,Central Africa,0,1,Africa,40
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,136,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,1
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,137,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,1
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,140,98,138,,,,Indonesia,,,1,2,Asia,7
+0,1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,141,102,144,,,,Indonesia,,,1,2,Asia,7
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,136,82,117,,,,Myanmar,,Greater Mekong,1,2,Asia,4
+3,4,4,Temperate_broadleaf_and_mixed_forests,0,137,84,119,,,,Myanmar,,Greater Mekong,1,2,Asia,4
+5,6,6,Boreal_forests_taiga,0,114,3,5,Kobuk Valley,n,5,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+5,6,6,Boreal_forests_taiga,0,115,6,8,Selawik NWR,n,21,USA,WCS areas of work,Arctic Beringia,3,4,North America,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,122,23,25,Mayo-Bidjou,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,123,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,124,25,27,Mayo-Nduele,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,125,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,126,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,0
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,127,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,0
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,128,26,28,Sorombeo,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,129,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,1
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,130,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,131,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,132,28,30,Djibao,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,133,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,2
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,134,29,31,Bouba Ndjidda,,,Cameroon,WCS areas of work,Central Africa,0,1,Africa,18
+6,7,7,Tropical_and_subtropical_grasslands_savannas,0,135,30,32,Sene Oura,,,Chad,WCS areas of work,Central Africa,0,1,Africa,18
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,138,89,126,Iinnii Home  Land,,,USA,WCS areas of work,,3,4,North America,1
+7,8,8,Temperate_grasslands_savannas_and_shriblands,0,139,90,127,High Divide,,,USA,WCS areas of work,,3,4,North America,1
+10,11,11,Tundra,0,110,1,3,Gates of the Arctic,n,12,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+10,11,11,Tundra,0,111,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+10,11,11,Tundra,0,112,2,4,Noatak,n,6,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+10,11,11,Tundra,0,113,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,4
+10,11,11,Tundra,0,116,7,9,Yukon Delta NWR,n,22,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+10,11,11,Tundra,0,117,8,10,Togiak NWR,n,23,USA,WCS areas of work,Arctic Beringia,3,4,North America,0
+10,11,11,Tundra,0,118,11,13,Colville River,y,8,USA,WCS areas of work,Arctic Beringia,3,4,North America,1064
+10,11,11,Tundra,0,119,12,14,Utukok River,y,7,USA,WCS areas of work,Arctic Beringia,3,4,North America,1064

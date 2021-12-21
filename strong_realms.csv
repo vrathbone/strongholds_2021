@@ -1,0 +1,180 @@
+FID_wwf_re,REALM,sq_km,FID_strong,OBJECTID,SCAPENAME,PROGRAM,COUNTRY,TYPE,INTACTWILD,HIGHIMPORT,Name,Region,WCS_SH,Reason,sq_km
+0,,11955716,14,15,,,Canada,,0,,,Boreal,0,,45130
+0,,11955716,16,17,,,Canada,,0,,,Boreal,1,,6452
+0,,11955716,17,18,,,Canada,,0,,,Boreal,1,,14851
+0,,11955716,42,66,,Asia,China,J,0,,Changtang,Temperate Asia,1,"Political, Financial",24616
+0,,11955716,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,18964
+0,,11955716,52,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,30021
+0,,11955716,107,0,,,Iran,,0,,,,0,,2
+1,AA,9227515,92,0,,,Indonesia,,0,,,,0,,112715
+1,AA,9227515,94,0,,,Indonesia,,0,,,,0,,57851
+1,AA,9227515,106,0,,,,,0,,,,0,,518310
+1,AA,9227515,119,0,Solomon Islands,,,,0,,Bismarck-Solomon,,1,,80826
+3,AT,21657240,0,1,Northern Albertine Rift,Africa,"DRC, Rwanda, Uganda",Terrestrial,6,Y,Greater Virunga,Central Africa,1,,21367
+3,AT,21657240,1,2,Greater Salonga,Africa,DRC,Terrestrial,5,Y,Salonga,Central Africa,0,,114551
+3,AT,21657240,2,3,Greater Mbam Djerem,Africa,Cameroon,Terrestrial,7,Y,Mbam-Mpim-Dengdeng,Central Africa,1,,37708
+3,AT,21657240,3,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,250
+3,AT,21657240,4,5,Northwest DRC Rainforest,Africa,DRC,Terrestrial,4,N,Maringa-Lopori,Central Africa,0,,90329
+3,AT,21657240,5,6,Greater Cross River,Africa,"Cameroon, Nigeria",Terrestrial,4,N,Cross River-Takamanda,Central Africa,1,,23992
+3,AT,21657240,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,4,N,Bili-Uere,Central Africa,0,,8
+3,AT,21657240,7,8,Greater Upemba,Africa,DRC,Terrestrial,2,N,Upemba-Kundelungu,Central Africa,0,,20935
+3,AT,21657240,8,9,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,8,Y,Garamba,Central Africa,0,,2
+3,AT,21657240,9,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,49900
+3,AT,21657240,10,11,Oku-Kahuzi-Kabobo,Africa,DRC,Terrestrial,5,Y,Eastern DRC,Central Africa,1,,198110
+3,AT,21657240,11,12,East Central Africa Rainforest,Africa,DRC,Terrestrial,6,Y,Lomami-Tshuapa,Central Africa,0,,36595
+3,AT,21657240,12,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,429647
+3,AT,21657240,13,14,Guinea-Congo-Sudanian Transition,Africa,Multiple,Terrestrial,5,Y,Guinea-Congo-Sudanian transition,Central Africa,1,,63528
+3,AT,21657240,26,40,Greater Zakouma-Bamingui-Manovo,,Chad y Central African Republic,,0,,Bamingui-Bangoran / Manovo-Gounda,Sudano-Sahel,1,,177873
+3,AT,21657240,27,41,Savannas of the Eastern Sahel,,South Sudan y Ethiopia,,0,,Boma-Jonglei-Equatoria - Gambella-Omo,Sudano-Sahel,1,,287169
+3,AT,21657240,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,0,,Bili-Uere - Zemongo,Sudano-Sahel,0,,91443
+3,AT,21657240,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,0,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,81195
+3,AT,21657240,37,60,Kigosi-Moyowosi,,Tanzania,,0,,Moyowosi-Kigosi,East Africa West Indian Ocean,0,"Others, financial",26837
+3,AT,21657240,38,61,Greater Serengeti,,Tanzania y Kenya,,0,,Serengeti-Mara,East Africa West Indian Ocean,0,Others,146169
+3,AT,21657240,39,62,Greater Ruaha Katavi,,Tanzania,,0,,Ruaha-Katavi,East Africa West Indian Ocean,1,,160176
+3,AT,21657240,40,63,Niyassa-Selous,,Tanzania y Mozambique,,0,,Niassa-Selous,East Africa West Indian Ocean,1,"WCS in Niassa, Others in Selous",274515
+3,AT,21657240,41,65,Madagascar Rainforest,,Madagascar,,0,,Madagascar,East Africa West Indian Ocean,1," We work in Makira, Masoala is an expansion site. Others work in rest of stronghold.",114830
+4,IM,8499096,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,28404
+4,IM,8499096,48,78,,,India,,0,,,South Asia,0,,57247
+4,IM,8499096,49,80,,,India,,0,,,South Asia,1,,157024
+4,IM,8499096,50,82,,,India,,0,,,South Asia,1,,86496
+4,IM,8499096,51,84,,,Bangladesh,,0,,Sunderbans,South Asia,1,,10877
+4,IM,8499096,52,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,530367
+4,IM,8499096,53,90,,,Cambodia,,0,,,Greater Mekong,0,,14111
+4,IM,8499096,54,91,,,"Cambodia, Thailand",,0,,,Greater Mekong,1,,104587
+4,IM,8499096,55,92,,,Cambodia,,0,,,Greater Mekong,1,,30840
+4,IM,8499096,56,93,,,Laos,,0,,,Greater Mekong,1,,107933
+4,IM,8499096,57,96,,,Myanmar,,0,,,Greater Mekong,1,,59728
+4,IM,8499096,58,100,,,Myanmar y Thailand,,0,,,Greater Mekong,1,,112453
+4,IM,8499096,84,0,,,Malaysia,,0,,,,0,,62744
+4,IM,8499096,85,0,,,Malaysia,,0,,,,0,,761
+4,IM,8499096,86,0,,,Malaysia,,0,,,,0,,765
+4,IM,8499096,87,0,,,Malaysia,,0,,,,0,,38961
+4,IM,8499096,88,0,,,Philippines,,0,,,,0,,7761
+4,IM,8499096,89,0,,,Philippines,,0,,,,0,,89304
+4,IM,8499096,90,0,,,Philippines,,0,,,,0,,14178
+4,IM,8499096,91,0,,,Indonesia,,0,,,,0,,5699
+4,IM,8499096,93,0,,,Indonesia,,0,,,,0,,46636
+4,IM,8499096,95,0,,,Indonesia,,0,,,,0,,200765
+4,IM,8499096,96,0,,,Indonesia,,0,,,,0,,166043
+4,IM,8499096,97,0,,,Malaysia,,0,,,,0,,19686
+4,IM,8499096,98,0,,,Malaysia,,0,,,,0,,2569
+4,IM,8499096,108,0,,,,,0,,,,0,,26741
+4,IM,8499096,109,0,,,,,0,,,,0,,58521
+4,IM,8499096,110,0,,,,,0,,,,0,,103953
+4,IM,8499096,111,0,,,,,0,,,,0,,65875
+4,IM,8499096,112,0,,,,,0,,,,0,,68966
+4,IM,8499096,113,79,,,India,,0,,,South Asia,0,,3710
+5,NA,20491302,14,15,,,Canada,,0,,,Boreal,0,,928472
+5,NA,20491302,15,16,,,Canada,,0,,,Boreal,0,,896227
+5,NA,20491302,16,17,,,Canada,,0,,,Boreal,1,,791856
+5,NA,20491302,17,18,,,Canada,,0,,,Boreal,1,,1158470
+5,NA,20491302,59,0,,,USA y Canada,,0,,Crown of the Continent,,0,,40214
+5,NA,20491302,60,0,,,USA,,0,,Greater Yellowstone,,0,,72111
+5,NA,20491302,61,0,,,USA,,0,,Selmon-Selway Willderness,,0,,112688
+5,NA,20491302,62,0,,,USA,,0,,Greater Gila,,0,,101628
+5,NA,20491302,63,0,,,USA y Canada,,0,,Missouri Grasslands,,0,,57605
+5,NA,20491302,64,0,,,USA,,0,,9,,0,,8627
+5,NA,20491302,65,0,,,USA,,0,,Canyonlands,,0,,67490
+5,NA,20491302,66,0,,,USA,,0,,San Juan,,0,,40060
+5,NA,20491302,67,0,,,USA,,0,,Flint Hills,,0,,40804
+5,NA,20491302,68,0,,,USA,,0,,4,,0,,39055
+5,NA,20491302,69,0,,,USA y M├®xico,,0,,3,,0,,20463
+5,NA,20491302,70,0,,,USA y M├®xico,,0,,2,,0,,2423
+5,NA,20491302,71,0,,,USA y M├®xico,,0,,1,,0,,28754
+5,NA,20491302,72,0,,,USA,,0,,Northeastern Great Basin Sagebrush,,0,,113411
+5,NA,20491302,73,0,,,USA,,0,,11,,0,,32767
+5,NA,20491302,74,0,,,USA,,0,,12,,0,,212145
+5,NA,20491302,75,0,,,M├®xico,,0,,Occidentale Jaguar 1,,0,,12581
+5,NA,20491302,76,0,,,M├®xico,,0,,Occidentale Jaguar 2,,0,,32710
+5,NA,20491302,77,0,,,USA,,0,,Panhandle Shortgrass Steppe,,0,,28441
+5,NA,20491302,78,0,,,USA,,0,,6,,0,,26310
+5,NA,20491302,79,0,,,USA,,0,,5,,0,,60221
+5,NA,20491302,80,0,,,USA,,0,,8,,0,,20226
+5,NA,20491302,81,0,,,USA,,0,,Sand Hiills,,0,,66491
+5,NA,20491302,82,0,,,USA,,0,,Paha Sapa,,0,,58435
+5,NA,20491302,83,0,,,USA,,0,,Yellowstone Grasslands,,0,,56470
+5,NA,20491302,102,0,,,USA,,0,,,Arctic Beringia,0,,136093
+6,NT,19308843,18,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,56866
+6,NT,19308843,19,23,,,Colombia,,0,,Central Andes,AAO,1,,105373
+6,NT,19308843,20,24,,,Colombia,,0,,Orinoqu├¡a,AAO,1,,115259
+6,NT,19308843,21,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,53358
+6,NT,19308843,22,31,,,Colombia,,0,,Sierra Nevada de Santa Marta,AAO,0,,12247
+6,NT,19308843,23,32,,,Colombia y Venezuela,,0,,Perij├í,AAO,0,,18197
+6,NT,19308843,24,33,,,Colombia,,0,,Macarena - Tinig├╝a,AAO,0,,30619
+6,NT,19308843,25,38,,,Bolivia,,0,,Altiplano,AAO,0,,135833
+6,NT,19308843,30,48,,,Cuba,,0,,,Mesoamerica,1,,3638
+6,NT,19308843,31,49,,,Dominican Republic,,0,,Hispanola,Mesoamerica,0,,22771
+6,NT,19308843,32,50,,,"Mexico, Belize",,0,,Maya Forest and Coast,Mesoamerica,1,,130560
+6,NT,19308843,33,51,,,"Honduras, Nicaragua",,0,,,Mesoamerica,1,,81451
+6,NT,19308843,34,52,,,"Nicaragua, Costa Rica",,0,,,Mesoamerica,1,,10993
+6,NT,19308843,35,53,,,"Cost Rica, Panama",,0,,,Mesoamerica,1,,38511
+6,NT,19308843,36,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,9404
+6,NT,19308843,76,0,,,M├®xico,,0,,Occidentale Jaguar 2,,0,,665
+6,NT,19308843,114,0,,,,,0,,,,0,,3364819
+6,NT,19308843,115,0,,,,,0,,,,0,,500931
+6,NT,19308843,116,0,,,,,0,,,,0,,1098607
+6,NT,19308843,117,0,,,,,0,,,,0,,126159
+7,OC,46899,118,0,Fiji,,,,0,,Fiji Stronghold,,1,,16880
+8,PA,52849857,42,66,,Asia,China,J,0,,Changtang,Temperate Asia,1,"Political, Financial",786571
+8,PA,52849857,43,67,,Asia,"Kyrgyzstan, Tajikistan, China, Pakistan",A+B,0,,"Upper Syr Darya River Basin, Tian Shan Mountains, Upper Amu Darya River Basin, Greater Pamirs",Temperate Asia,1,Limitations in B: Financial,858038
+8,PA,52849857,44,68,,Asia,"Russia, China",F,0,,Northeast Asia Tiger Stronghold,Temperate Asia,1,,839822
+8,PA,52849857,45,70,,,"Kazakhstan, Russian, China y Mongolia",C,0,,Altai Mountains,Temperate Asia,0,Financial,433700
+8,PA,52849857,46,75,,,"Russia, China, Mongolia",G,0,,Daurian Steppe-Eastern Gobi,Temperate Asia,1,,1198566
+8,PA,52849857,47,77,,,Kazakhstan,K,0,,Altyn Dala,Temperate Asia,0,"Political, Financial",389495
+8,PA,52849857,52,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,258383
+8,PA,52849857,103,0,,,Russian,,0,,,Arctic Beringia,0,,109806
+8,PA,52849857,107,0,,,Iran,,0,,,,0,,664142
+3,AT,21657240,3,4,West Central Africa Rainforest,Africa,Congo,Terrestrial,6,Y,Conkouati,Central Africa,1,,5152
+3,AT,21657240,9,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,5152
+3,AT,21657240,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,4,N,Bili-Uere,Central Africa,0,,148168
+3,AT,21657240,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,0,,Bili-Uere - Zemongo,Sudano-Sahel,0,,148168
+3,AT,21657240,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,4,N,Bili-Uere,Central Africa,0,,0
+3,AT,21657240,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,0,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,0
+3,AT,21657240,8,9,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,8,Y,Garamba,Central Africa,0,,14904
+3,AT,21657240,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,0,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,14904
+3,AT,21657240,9,10,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,Y,Atlantic Coast,Central Africa,1,,9
+3,AT,21657240,12,13,West Central Africa Rainforest,Africa,Multiple,Terrestrial,6,y,Guineo-Congolian inland forests,Central Africa,1,,9
+3,AT,21657240,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,0,,Bili-Uere - Zemongo,Sudano-Sahel,0,,0
+3,AT,21657240,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,0,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,0
+4,IM,8499096,52,85,,,"India, Nepal y Bhutan",,0,,Himalayas,South Asia,0,,116
+4,IM,8499096,57,96,,,Myanmar,,0,,,Greater Mekong,1,,116
+4,IM,8499096,84,0,,,Malaysia,,0,,,,0,,29171
+4,IM,8499096,98,0,,,Malaysia,,0,,,,0,,29171
+5,NA,20491302,76,0,,,M├®xico,,0,,Occidentale Jaguar 2,,0,,0
+6,NT,19308843,76,0,,,M├®xico,,0,,Occidentale Jaguar 2,,0,,0
+5,NA,20491302,14,15,,,Canada,,0,,,Boreal,0,,162
+5,NA,20491302,16,17,,,Canada,,0,,,Boreal,1,,162
+5,NA,20491302,15,16,,,Canada,,0,,,Boreal,0,,11
+5,NA,20491302,16,17,,,Canada,,0,,,Boreal,1,,11
+5,NA,20491302,62,0,,,USA,,0,,Greater Gila,,0,,0
+5,NA,20491302,69,0,,,USA y M├®xico,,0,,3,,0,,0
+5,NA,20491302,66,0,,,USA,,0,,San Juan,,0,,0
+5,NA,20491302,78,0,,,USA,,0,,6,,0,,0
+5,NA,20491302,72,0,,,USA,,0,,Northeastern Great Basin Sagebrush,,0,,0
+5,NA,20491302,73,0,,,USA,,0,,11,,0,,0
+5,NA,20491302,78,0,,,USA,,0,,6,,0,,8
+5,NA,20491302,79,0,,,USA,,0,,5,,0,,8
+5,NA,20491302,101,0,,,USA,,0,,,Arctic Beringia,0,,353029
+5,NA,20491302,104,0,,,USA,,0,,,Arctic Beringia,0,,353029
+6,NT,19308843,18,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,30
+6,NT,19308843,19,23,,,Colombia,,0,,Central Andes,AAO,1,,30
+6,NT,19308843,18,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,0
+6,NT,19308843,21,30,,,Colombia y Ecuador,,0,,South-Choc├│,AAO,0,,0
+6,NT,19308843,18,22,,,Panam├í y Colombia,,0,,Choc├│-Dari├®n,AAO,1,,20613
+6,NT,19308843,36,54,,,"Panama, Colombia",,0,,,Mesoamerica,1,,20613
+6,NT,19308843,19,23,,,Colombia,,0,,Central Andes,AAO,1,,1587
+6,NT,19308843,114,0,,,,,0,,,,0,,1587
+6,NT,19308843,24,33,,,Colombia,,0,,Macarena - Tinig├╝a,AAO,0,,1435
+6,NT,19308843,114,0,,,,,0,,,,0,,1435
+6,NT,19308843,25,38,,,Bolivia,,0,,Altiplano,AAO,0,,1708
+6,NT,19308843,117,0,,,,,0,,,,0,,1708
+8,PA,52849857,99,0,,,Russian,,0,,,Arctic Beringia,0,,7600
+8,PA,52849857,105,0,,,Russian,,0,,,Arctic Beringia,0,,7600
+8,PA,52849857,100,0,,,Russian,,0,,,Arctic Beringia,0,,70157
+8,PA,52849857,103,0,,,Russian,,0,,,Arctic Beringia,0,,70157
+3,AT,21657240,6,7,Greater Chinko/Garamba/Southern,Africa,DRC,Terrestrial,4,N,Bili-Uere,Central Africa,0,,13
+3,AT,21657240,28,42,Greater Chinko/Garamba/Southern,,Congo y Central African Republic,,0,,Bili-Uere - Zemongo,Sudano-Sahel,0,,13
+3,AT,21657240,29,43,Greater Chinko/Garamba/Southern,,South Sudan y Congo,,0,,Southern-Lantoto - Garamba,Sudano-Sahel,0,,13
+5,NA,20491302,17,18,,,Canada,,0,,,Boreal,1,,15463
+5,NA,20491302,101,0,,,USA,,0,,,Arctic Beringia,0,,15463
+5,NA,20491302,104,0,,,USA,,0,,,Arctic Beringia,0,,15463

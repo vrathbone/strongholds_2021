@@ -1,0 +1,15 @@
+"BIOME,N,19,11",biome2,name,area,sq_km
+1,1,Tropical_and_subtropical_moist_broadleaf_forests,0,19775477
+2,2,Tropical_and_subtropical_dry_broadleaf_forests,0,3009534
+3,3,Tropical_and_subtropical_coniferous_forests,0,709291
+4,4,Temperate_broadleaf_and_mixed_forests,0,12831028
+5,5,Temperate_coniferous_forests,0,4086175
+6,6,Boreal_forests_taiga,0,15126779
+7,7,Tropical_and_subtropical_grasslands_savannas,0,20177551
+8,8,Temperate_grasslands_savannas_and_shriblands,0,10101622
+9,9,Flooded_grasslands_and_savannas,0,1091569
+10,10,Montane_grasslands_and_savannas,0,5187565
+11,11,Tundra,0,11655053
+12,12,Mediterranean_forests_woodlands_and_scrub,0,3220386
+13,13,Deserts_and_xeric_shrublands,0,27886334
+14,14,Mangrove,0,346432
