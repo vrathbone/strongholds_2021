@@ -71,6 +71,15 @@ strong_mean_sr <- strong_sr %>%
   mutate(mean_sd = mean(std)) %>% 
   mutate(mean_sr = mean(mean))
 
+#strong with WWW
+strong_www_sr <- read_csv("strong_www_sr.csv") %>% 
+  clean_names()
+
+strong_www_mean_sr <- strong_www_sr %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_sr = mean(mean))
+
+#www
 www_sr <- read_csv("www_sr_table.csv") %>% 
   clean_names()
 
@@ -91,6 +100,16 @@ strong_mean_threat <- strong_threat %>%
   mutate(mean_sd = mean(std)) %>% 
   mutate(mean_threat = mean(mean))
 
+#strongholds with www
+strong_www_threat <- read_csv("strong_www_threat.csv") %>% 
+  clean_names()
+
+strong_www_mean_threat <- strong_www_threat %>% 
+  mutate(mean_sd = mean(std)) %>% 
+  mutate(mean_threat = mean(mean))
+
+
+#www
 www_threat <- read_csv("www_threat_table.csv") %>% 
   clean_names()
 
@@ -172,7 +191,58 @@ www_pa_iucn_poly <- www_pa %>%
 Integrity
 ```{r}
 
+#
 
 
+```
+
+KBAs
+```{r}
+
+#global KBAs
+global_kba <- read_csv("global_kba.csv") %>% 
+  clean_names() %>% 
+  filter(sq_km > 0) %>%
+  group_by(country) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km))
+
+#strongholds with KBAs
+strong_kba <- read_csv("strong_KBA.csv") %>% 
+  clean_names() %>%
+  filter(sq_km > 0) %>%
+  group_by(fid_global) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_total_kba = sum_sq_km/global_kba$sum_sq_km)
+
+#strongholds with WWW and KBAs
+strong_www_kba <- read_csv("strong_www_KBA.csv") %>% 
+  clean_names() %>%
+  filter(sq_km > 0) %>%
+  group_by(fid_globa) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_total_kba = sum_sq_km/global_kba$sum_sq_km)
+
+#www with KBAs
+www_kba <- read_csv("www_KBA.csv") %>% 
+  clean_names() %>%
+  filter(sq_km > 0) %>%
+  group_by(fid_global) %>% 
+  summarise(sq_km = sum(sq_km)) %>% 
+  mutate(sum_sq_km = sum(sq_km)) %>% 
+  mutate(perc_total_kba = sum_sq_km/global_kba$sum_sq_km)
+
+```
+
+Threatened Ecoregions: WWF Global 200
+```{r}
+
+#strongholds
+
+#strongholds with WWW
+
+#www
 ```
 
