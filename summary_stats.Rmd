@@ -394,17 +394,18 @@ Ecoregions
 #global ecoregions
 wwf_terr_eco <- read_csv("wwf_terr_eco.csv") %>% 
   clean_names() %>% 
+  select(-objectid) %>% 
   group_by(eco_name) %>% 
   summarise(sq_km = sum(sq_km)) %>% 
-  mutate(strong_poly = strong_terr_eco_poly$total_strong) %>% 
-  mutate(strong_km = strong_terr_eco_km$strong_km) %>%
+  full_join(strong_terr_eco_poly) %>% 
+  full_join(strong_terr_eco_km) %>%
   mutate(strong_perc = strong_km/sq_km) %>% 
-  mutate(strong_www_poly = strong_www_terr_eco_poly$total_strong_www) %>% 
-  mutate(strong_www_km = strong_www_terr_eco_km$strong_www_km) %>%
-  mutate(strong_www_perc = strong_www_km/sq_km) %>%
-  mutate(www_poly = www_terr_eco_poly$total_www) %>% 
-  mutate(www_km = www_terr_eco_km$www_km) %>%
-  mutate(www_perc = www_km/sq_km)
+  full_join(strong_www_terr_eco_poly) %>% 
+  full_join(strong_www_terr_eco_km) %>%
+  mutate(strong_www_perc = strong_km/sq_km) %>%
+  full_join(www_terr_eco_poly) %>% 
+  full_join(www_terr_eco_km) %>%
+  mutate(www_perc = strong_km/sq_km)
 
 #strongholds
 strong_terr_eco <- read_csv("strong_terr_eco.csv") %>% 
