@@ -449,3 +449,23 @@ www_terr_eco_km <- www_terr_eco %>%
 
 ```
 
+Integrity
+```{r}
+
+#strongholds
+strong_integrity <- read_csv("strong_integrity.csv") %>% 
+  clean_names() %>% 
+  mutate(sum_mean = mean(mean)/1000) #divide by 1000 because the original raster was multiplied by 1000 to reduce file size, see link in processing doc for more detail
+
+#strongholds with WWW
+strong__www_integrity <- read_csv("strong_www_integrity.csv") %>% 
+  clean_names() %>% 
+  mutate(sum_mean = mean(mean)/1000)
+
+#WWW
+www_integrity <- read_csv("www_integrity.csv") %>% 
+  clean_names() %>% 
+  mutate(sum_mean = mean(mean)/1000)
+
+```
+
